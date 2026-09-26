@@ -16,6 +16,11 @@ Rivyou asks: *"Document how long you actually spent."* This file is the record.
 
 | 27-09-2026 | ~00:00 | ~00:38 | | 2 | Learned DNS check by hand (`Resolve-DnsName`); wrote `sourcing/dns_check.py`; golden 20/20; full run on top 50,000 in ~12 min → **4,160 Shopify domains**. **Step 2 complete.** |
 
+| 27-09-2026 | ~00:40 | ~01:00 | | 3 | Learned robots.txt + politeness rules; wrote `utils/fetcher.py`; golden self-test: 18 pages cached, rerun 0 network hits. **Step 3 complete.** |
+
+| 27-09-2026 | ~01:00 | ~01:50 | | 4 | Wrote `verify/shopify_check.py`; golden 20/20; full run (~35 min) → **4,050 confirmed Shopify, 3,924 with meta.json country = IN** |
+| 27-09-2026 | ~02:30 | ~03:20 | | 4 | Found 302 cached 429s; fixed fetcher + wrote `utils/clean_cache.py` (targeted version after full-scan was too slow on Windows); rerun → live 3,966, 429s down to 46. **Step 4 complete.** |
+
 **Total so far:** __ hours
 
 ---
@@ -40,3 +45,5 @@ Short notes on problems hit and how they were solved. These become the "what I l
 - Public DNS servers throttle at ~30 domains/sec; pushing more at once only creates timeouts → kept it gentle (30 at once).
 - Checking all 718k would take ~6.6 h → check most promising first, stop at 50,000.
 - Tranco-only `.in` domains gave 0 Shopify stores (ad/parked/infra sites) → moved to the end of the queue.
+- All Shopify stores share Shopify's servers → Shopify throttled us (429) on 302 homepages. Fetcher had cached those failures → fixed so temporary failures are never cached.
+- Scanning a 3 GB cache on Windows is very slow (antivirus scans each file) → cleanup now targets only flagged stores.

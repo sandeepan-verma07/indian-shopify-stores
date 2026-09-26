@@ -5,3 +5,4 @@ data/cache/
 CLAUDE.md
 data/raw/
 data/candidates_*.csv
+!data/candidates_dns.csv
