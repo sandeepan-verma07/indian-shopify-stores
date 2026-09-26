@@ -14,6 +14,8 @@ Rivyou asks: *"Document how long you actually spent."* This file is the record.
 | 26-09-2026 | ~20:50 | | | 1b | Ran CrUX India query on BigQuery (Aug 2026 data) at 20:52 → 1,000,000 origins; exported CSV via Google Drive (33.4 MB) at ~20:58; wrote `sourcing/crux.py` → 716,973 domains (~21:00) |
 | 26-09-2026 | ~21:00 | ~21:11 | | 1c | Wrote `sourcing/merge.py` → 718,855 unique candidates; golden-set recall 20/20. **Step 1 complete.** |
 
+| 27-09-2026 | ~00:00 | ~00:38 | | 2 | Learned DNS check by hand (`Resolve-DnsName`); wrote `sourcing/dns_check.py`; golden 20/20; full run on top 50,000 in ~12 min → **4,160 Shopify domains**. **Step 2 complete.** |
+
 **Total so far:** __ hours
 
 ---
@@ -33,3 +35,8 @@ Short notes on problems hit and how they were solved. These become the "what I l
 - Left thewholetruthfoods.com and damensch.com out of the test set (unsure — likely not standard Shopify).
 - Tranco `.in` gave only 9,254 domains (mostly big non-store sites) → added CrUX India (BigQuery) for Indian brands on `.com`.
 - Merged candidates: 718,855 domains; all 20 golden-set domains present (recall 20/20).
+
+### 27-09-2026
+- Public DNS servers throttle at ~30 domains/sec; pushing more at once only creates timeouts → kept it gentle (30 at once).
+- Checking all 718k would take ~6.6 h → check most promising first, stop at 50,000.
+- Tranco-only `.in` domains gave 0 Shopify stores (ad/parked/infra sites) → moved to the end of the queue.
