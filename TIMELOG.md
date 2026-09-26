@@ -1,0 +1,28 @@
+# Time Log
+
+Rivyou asks: *"Document how long you actually spent."* This file is the record.
+
+**How to use it:** one row per work session. Write the start time when you sit down, the end time when you stop, and 1 line on what got done. Add the total at the bottom when you finish.
+
+| Date | Start | End | Hours | Step | What I did |
+|---|---|---|---|---|---|
+| 25-09-2026 | __:__ | __:__ | | 0 | Read the brief, planned the approach, chose Python, created folders, venv, installed packages |
+| 26-09-2026 | __:__ | __:__ | | 0 | Built golden test set: checked 12 stores' `/meta.json` by hand, found edge cases (Kylie ships to IN, Snitch domain move, Fashion Nova blocks meta.json) |
+
+**Total so far:** __ hours
+
+---
+
+## Notes per session
+
+Short notes on problems hit and how they were solved. These become the "what I learned / limitations" part of the README.
+
+### 25-09-2026
+- Chose Python: network-bound work, good libraries (httpx, dnspython, tldextract, phonenumbers).
+
+### 26-09-2026
+- `/meta.json` gives state for Indian Shopify stores directly (10/10 test stores).
+- `ships_to_countries` can't be used to decide "Indian" — Kylie Cosmetics (US) ships to IN.
+- Snitch moved snitch.co.in → snitch.com → dedupe on `myshopify_domain`.
+- fashionnova.com is on Shopify DNS but `/meta.json` is 404 → need multiple Shopify signals.
+- Left thewholetruthfoods.com and damensch.com out of the test set (unsure — likely not standard Shopify).
