@@ -20,6 +20,8 @@ Rivyou asks: *"Document how long you actually spent."* This file is the record.
 
 | 27-09-2026 | ~01:00 | ~01:50 | | 4 | Wrote `verify/shopify_check.py`; golden 20/20; full run (~35 min) → **4,050 confirmed Shopify, 3,924 with meta.json country = IN** |
 | 27-09-2026 | ~02:30 | ~03:20 | | 4 | Found 302 cached 429s; fixed fetcher + wrote `utils/clean_cache.py` (targeted version after full-scan was too slow on Windows); rerun → live 3,966, 429s down to 46. **Step 4 complete.** |
+| 27-09-2026 | ~03:22 | ~03:29 | | 5 | Wrote `verify/india_score.py` (score + evidence + verdict + dedupe) → **3,843 unique live Indian Shopify stores**; golden 10/10. **Step 5 complete.** |
+| 27-09-2026 | ~03:30 | ~03:45 | | 5 | Quality > quantity: main list = country IN + INR + Indian state only → **3,837**; 9 doubtful stores moved to `edge_cases.csv` with reasons; fixed old state names (Daman and Diu) |
 
 **Total so far:** __ hours
 
