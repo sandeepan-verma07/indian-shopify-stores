@@ -23,6 +23,20 @@ Rivyou asks: *"Document how long you actually spent."* This file is the record.
 | 27-09-2026 | ~03:22 | ~03:29 | | 5 | Wrote `verify/india_score.py` (score + evidence + verdict + dedupe) → **3,843 unique live Indian Shopify stores**; golden 10/10. **Step 5 complete.** |
 | 27-09-2026 | ~03:30 | ~03:45 | | 5 | Quality > quantity: main list = country IN + INR + Indian state only → **3,837**; 9 doubtful stores moved to `edge_cases.csv` with reasons; fixed old state names (Daman and Diu) |
 
+| 27-09-2026 | ~03:45 | ~03:55 | | 6 | Step 6 extractors built + tested by Claude (21 real homepages); written into `extract/` at Sandeepan's request |
+| 28-09-2026 | ~19:30 | | | 6 | Resumed: recap of Steps 0–5; committed Step 5 + Step 6 files; trial run on 30 stores (97% contact, 93% logo, 77% socials); found category/throttling/placeholder-email/state issues; decided: full fetch first (+ About page), improve parsing after |
+
+| 28-09-2026 | ~20:25 | ~21:35 | | 6 | Full Step 6 run on 3,837 stores (70 min fetch + 1 min parse). Found Shopify rate-limited almost all extra pages (3,510 stores homepage-only) → need a global speed limit before rerunning |
+
+| 28-09-2026 | ~21:40 | ~23:20 | | 6 | Diagnosed the rate-limiting; counted 1,879 stores already complete on 6/7 fields; added global 4 req/s limit + shared 429 pause + non-blocking cache reads (tested on local fake sites) |
+
+| 28–29-09-2026 | ~23:25 | ~02:05 | | 6 | Gentle rerun (4 req/s): 17k requests, 491 throttles, 11 errors → contacts 96%, independent India proof 87%, 2,626 stores with 6/7 fields |
+| 29-09-2026 | ~02:05 | ~02:35 | | 6R | Refine Parts 1–3 in `extract/refine.py`: placeholder/shared contacts, GSTIN state cross-check (21 conflicts), taglines from About pages → 3,547 (92%); ~21 doubtful taglines to be excluded at the final gate |
+| 29-09-2026 | ~02:35 | ~02:45 | | 6R | Part 5: installed sentence-transformers; wrote `extract/ai_category.py`; trial on 40 stores → 50% agree, all agreed correct on hand check; full run started |
+| 29-09-2026 | ~02:45 | ~03:05 | | 6R/7 | AI full run: 2,589 / 3,837 agree (67%); wrote `build_final.py` (checks, ranking, funnel report) → 1,703 pass all checks → best 1,000 → Sandeepan ran it: 1,703 / 1,000 confirmed |
+| 29-09-2026 | ~03:45 | ~03:55 | | 6 | Wrote `verify/live_checks.py` (logo loads + email MX), tested on fake server |
+| 29-09-2026 | ~19:00 | ~19:30 | | 6/7 | Live checks run: logos 1,644/1,703, MX 1,678/1,703 (83 failed) → rebuild: 1,620 pass all 11 checks → final 1,000. |
+
 **Total so far:** __ hours
 
 ---
@@ -47,5 +61,17 @@ Short notes on problems hit and how they were solved. These become the "what I l
 - Public DNS servers throttle at ~30 domains/sec; pushing more at once only creates timeouts → kept it gentle (30 at once).
 - Checking all 718k would take ~6.6 h → check most promising first, stop at 50,000.
 - Tranco-only `.in` domains gave 0 Shopify stores (ad/parked/infra sites) → moved to the end of the queue.
+
+### 28-09-2026
+- Trial on 30 stores showed keyword rules can't categorise stores whose products use model names ("Air Max 90" → not "shoe") → plan: semantic (embedding) model.
+- GSTIN on a store's site contradicted its meta.json state (99store.biz: "Andaman and Nicobar" vs GST code 07 = Delhi) → independent evidence matters.
+- Shopify throttles `/products.json` harder than other pages.
+- Being polite per site is not enough: all stores share Shopify's servers, which rate-limit per visitor. ~40 requests/sec across 3,800 stores → HTTP 429 on nearly every extra page. Need a global cap (~3/s) and a shared pause on 429.
+- Reading 3 GB of cached homepages synchronously blocked the async loop for ~30 min and held ~6 GB RAM.
+
+### 29-09-2026
+- With a global limit of 4 req/s + shared pause on 429, the same crawl worked: 491 throttles total instead of ~50k failed retries.
+- Parsing ~10 GB of cached JSON on Windows took 15 min because Defender scanned every file (83% CPU) — at scale, store pages compressed / in one database file.
+- Some Shopify themes ship placeholder contacts (info@yourstore.com, contact@company.com) that stores never replace → must be filtered.
 - All Shopify stores share Shopify's servers → Shopify throttled us (429) on 302 homepages. Fetcher had cached those failures → fixed so temporary failures are never cached.
 - Scanning a 3 GB cache on Windows is very slow (antivirus scans each file) → cleanup now targets only flagged stores.
