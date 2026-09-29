@@ -1213,7 +1213,6 @@
     "store_name": "thedeconstruct",
     "domain_url": "https://thedeconstruct.in",
     "emails": [
-      "%20wecare@thedeconstruct.in",
       "wecare@thedeconstruct.in"
     ],
     "phones": [
@@ -1852,8 +1851,7 @@
     "domain_url": "https://sprinklez.in",
     "emails": [
       "support@sprinklez.in",
-      "sales@sprinklez.in",
-      "support@sprinklez.in%20"
+      "sales@sprinklez.in"
     ],
     "phones": [
       "+919738612222"
@@ -2562,8 +2560,7 @@
     "store_name": "OnlineMantra.in",
     "domain_url": "https://onlinemantra.in",
     "emails": [
-      "onlinemantra@ateeagn.com",
-      "onlinemantra@ateeagn.com%c2%a0"
+      "onlinemantra@ateeagn.com"
     ],
     "phones": [
       "+917021448032",
@@ -4713,7 +4710,6 @@
     "domain_url": "https://iberiaskinbrands.in",
     "emails": [
       "info@iberiaskinbrands.com",
-      "info@iberiaskinbrands.com, hello@iberiaskinbrands.com",
       "hello@iberiaskinbrands.com"
     ],
     "phones": [
@@ -5320,7 +5316,6 @@
     "store_name": "Nilkamal Furniture",
     "domain_url": "https://nilkamalfurniture.com",
     "emails": [
-      "mailto:customercare@nilkamalfurniture.com",
       "customercare@nilkamalfurniture.com"
     ],
     "phones": [
@@ -5897,7 +5892,6 @@
     "domain_url": "https://limelightdiamonds.com",
     "emails": [
       "contact@limelightdiamonds.com",
-      "mailto:contact@limelightdiamonds.com",
       "recruit@limelightdiamonds.com"
     ],
     "phones": [
@@ -7371,8 +7365,7 @@
     "domain_url": "https://myhealinghands.in",
     "emails": [
       "care@myhealinghands.in",
-      "info@myhealinghands.in",
-      "%20care@myhealinghands.in"
+      "info@myhealinghands.in"
     ],
     "phones": [
       "+918888188884",
@@ -7690,7 +7683,6 @@
     "domain_url": "https://jvlclassicware.com",
     "emails": [
       "jvlwebenquiry@gmail.com",
-      "%20ayushjvl@gmail.com",
       "ayushjvl@gmail.com"
     ],
     "phones": [
@@ -8872,32 +8864,6 @@
   },
   {
     "rank": 338,
-    "store_name": "Toni Rossi",
-    "domain_url": "https://tonirossi.com",
-    "emails": [
-      "hello@tonirossi.com"
-    ],
-    "phones": [
-      "+919384040758",
-      "+919384040777"
-    ],
-    "instagram": "https://www.instagram.com/tonirossiofficial",
-    "facebook": "https://www.facebook.com/tonirossionline",
-    "twitter": "",
-    "linkedin": "",
-    "youtube": "",
-    "category": "Footwear",
-    "tagline": "Discover Toni Rossi's collection of premium footwear and accessories for men and women. Handcrafted shoes, bags, wallets, and more, designed for style, comfort, and luxury. Shop online or visit our stores across India.",
-    "tagline_source": "meta_json",
-    "logo_url": "https://tonirossi.com/cdn/shop/files/Logo-Toni-Rossi-02.png?v=1738169211&width=5760",
-    "state": "Tamil Nadu",
-    "city": "Gudiyatham",
-    "gstin": "33AAAFH0373B1Z6",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Tamil Nadu; GSTIN on site; +91 phone on site",
-    "quality_score": 9
-  },
-  {
-    "rank": 339,
     "store_name": "Waidon",
     "domain_url": "https://waidon.com",
     "emails": [
@@ -8923,7 +8889,7 @@
     "quality_score": 9
   },
   {
-    "rank": 340,
+    "rank": 339,
     "store_name": "Baybee India",
     "domain_url": "https://baybee.co.in",
     "emails": [
@@ -8952,7 +8918,7 @@
     "quality_score": 9
   },
   {
-    "rank": 341,
+    "rank": 340,
     "store_name": "Gro Club",
     "domain_url": "https://gro.club",
     "emails": [
@@ -8977,7 +8943,7 @@
     "quality_score": 9
   },
   {
-    "rank": 342,
+    "rank": 341,
     "store_name": "thrillerrr",
     "domain_url": "https://thrillerrr.in",
     "emails": [
@@ -9003,7 +8969,7 @@
     "quality_score": 9
   },
   {
-    "rank": 343,
+    "rank": 342,
     "store_name": "GK Publications",
     "domain_url": "https://gkpublications.com",
     "emails": [
@@ -9029,7 +8995,7 @@
     "quality_score": 9
   },
   {
-    "rank": 344,
+    "rank": 343,
     "store_name": "Amrutam",
     "domain_url": "https://amrutam.co.in",
     "emails": [
@@ -9054,7 +9020,7 @@
     "quality_score": 9
   },
   {
-    "rank": 345,
+    "rank": 344,
     "store_name": "Steadfast Nutrition",
     "domain_url": "https://steadfastnutrition.in",
     "emails": [
@@ -9079,7 +9045,7 @@
     "quality_score": 9
   },
   {
-    "rank": 346,
+    "rank": 345,
     "store_name": "Atlantic Books",
     "domain_url": "https://atlanticbooks.com",
     "emails": [
@@ -9108,7 +9074,7 @@
     "quality_score": 9
   },
   {
-    "rank": 347,
+    "rank": 346,
     "store_name": "Pokonut",
     "domain_url": "https://pokonut.com",
     "emails": [
@@ -9137,7 +9103,7 @@
     "quality_score": 9
   },
   {
-    "rank": 348,
+    "rank": 347,
     "store_name": "Lavos Performance",
     "domain_url": "https://lavosperformance.com",
     "emails": [
@@ -9163,7 +9129,7 @@
     "quality_score": 9
   },
   {
-    "rank": 349,
+    "rank": 348,
     "store_name": "Aroma Magic ",
     "domain_url": "https://aromamagic.com",
     "emails": [
@@ -9188,7 +9154,7 @@
     "quality_score": 9
   },
   {
-    "rank": 350,
+    "rank": 349,
     "store_name": "Anantham Silks",
     "domain_url": "https://ananthamsilks.com",
     "emails": [
@@ -9215,7 +9181,7 @@
     "quality_score": 9
   },
   {
-    "rank": 351,
+    "rank": 350,
     "store_name": "ArtZolo.com",
     "domain_url": "https://artzolo.com",
     "emails": [
@@ -9241,7 +9207,7 @@
     "quality_score": 9
   },
   {
-    "rank": 352,
+    "rank": 351,
     "store_name": "Aseem Shakti",
     "domain_url": "https://aseemshakti.com",
     "emails": [
@@ -9268,7 +9234,7 @@
     "quality_score": 9
   },
   {
-    "rank": 353,
+    "rank": 352,
     "store_name": "banarassilksarees",
     "domain_url": "https://banarassilks.com",
     "emails": [
@@ -9294,7 +9260,7 @@
     "quality_score": 9
   },
   {
-    "rank": 354,
+    "rank": 353,
     "store_name": "cunei",
     "domain_url": "https://cuneiindia.com",
     "emails": [
@@ -9319,7 +9285,7 @@
     "quality_score": 9
   },
   {
-    "rank": 355,
+    "rank": 354,
     "store_name": "Goenka Jewellers : Lab Grown Diamond Jewellery",
     "domain_url": "https://goenkajewellers.com",
     "emails": [
@@ -9346,7 +9312,7 @@
     "quality_score": 9
   },
   {
-    "rank": 356,
+    "rank": 355,
     "store_name": "Goonjasa",
     "domain_url": "https://goonjasa.in",
     "emails": [
@@ -9374,7 +9340,7 @@
     "quality_score": 9
   },
   {
-    "rank": 357,
+    "rank": 356,
     "store_name": "Regal Shoes",
     "domain_url": "https://regalshoes.in",
     "emails": [
@@ -9399,7 +9365,7 @@
     "quality_score": 9
   },
   {
-    "rank": 358,
+    "rank": 357,
     "store_name": "Glamgait",
     "domain_url": "https://glamgait.in",
     "emails": [
@@ -9424,7 +9390,7 @@
     "quality_score": 9
   },
   {
-    "rank": 359,
+    "rank": 358,
     "store_name": "Hug A Plant",
     "domain_url": "https://hugaplant.com",
     "emails": [
@@ -9451,7 +9417,7 @@
     "quality_score": 9
   },
   {
-    "rank": 360,
+    "rank": 359,
     "store_name": "HYARA",
     "domain_url": "https://hyara.in",
     "emails": [
@@ -9480,7 +9446,7 @@
     "quality_score": 9
   },
   {
-    "rank": 361,
+    "rank": 360,
     "store_name": "11Cart",
     "domain_url": "https://11cart.com",
     "emails": [
@@ -9506,7 +9472,7 @@
     "quality_score": 9
   },
   {
-    "rank": 362,
+    "rank": 361,
     "store_name": "D DASS Store",
     "domain_url": "https://ddassstore.com",
     "emails": [
@@ -9532,7 +9498,7 @@
     "quality_score": 9
   },
   {
-    "rank": 363,
+    "rank": 362,
     "store_name": "Hayat's Lucknowi",
     "domain_url": "https://hayatslucknowi.com",
     "emails": [
@@ -9557,7 +9523,7 @@
     "quality_score": 9
   },
   {
-    "rank": 364,
+    "rank": 363,
     "store_name": "GemsRoot",
     "domain_url": "https://gemsroot.com",
     "emails": [
@@ -9583,7 +9549,7 @@
     "quality_score": 9
   },
   {
-    "rank": 365,
+    "rank": 364,
     "store_name": "Veeba",
     "domain_url": "https://veeba.in",
     "emails": [
@@ -9610,7 +9576,7 @@
     "quality_score": 9
   },
   {
-    "rank": 366,
+    "rank": 365,
     "store_name": "Abana Homes",
     "domain_url": "https://abanahomes.com",
     "emails": [
@@ -9638,7 +9604,7 @@
     "quality_score": 9
   },
   {
-    "rank": 367,
+    "rank": 366,
     "store_name": "Alaya by Stage3",
     "domain_url": "https://alayabystage3.com",
     "emails": [
@@ -9664,7 +9630,7 @@
     "quality_score": 9
   },
   {
-    "rank": 368,
+    "rank": 367,
     "store_name": "AMOUNEE - Handloom & Handicraft",
     "domain_url": "https://amounee.com",
     "emails": [
@@ -9690,7 +9656,7 @@
     "quality_score": 9
   },
   {
-    "rank": 369,
+    "rank": 368,
     "store_name": "Herbalmax",
     "domain_url": "https://herbalmax.in",
     "emails": [
@@ -9716,7 +9682,7 @@
     "quality_score": 9
   },
   {
-    "rank": 370,
+    "rank": 369,
     "store_name": "ASC Fashion Store Pvt Ltd",
     "domain_url": "https://ascfashionstore.com",
     "emails": [
@@ -9741,7 +9707,7 @@
     "quality_score": 9
   },
   {
-    "rank": 371,
+    "rank": 370,
     "store_name": "Dritya Jewelry",
     "domain_url": "https://drityajewelry.com",
     "emails": [
@@ -9771,7 +9737,7 @@
     "quality_score": 9
   },
   {
-    "rank": 372,
+    "rank": 371,
     "store_name": "Iconic India",
     "domain_url": "https://iconicindia.com",
     "emails": [
@@ -9797,11 +9763,10 @@
     "quality_score": 9
   },
   {
-    "rank": 373,
+    "rank": 372,
     "store_name": " Ajanta Shoes India Pvt. Ltd.",
     "domain_url": "https://ajantashoes.com",
     "emails": [
-      "email: info@ajantashoes.com",
       "info@ajantashoes.com",
       "ecom.manager@ajantashoes.com"
     ],
@@ -9826,7 +9791,7 @@
     "quality_score": 9
   },
   {
-    "rank": 374,
+    "rank": 373,
     "store_name": "BAAORI",
     "domain_url": "https://baaori.com",
     "emails": [
@@ -9852,7 +9817,7 @@
     "quality_score": 9
   },
   {
-    "rank": 375,
+    "rank": 374,
     "store_name": "Bindass Books",
     "domain_url": "https://bindassbooks.in",
     "emails": [
@@ -9879,7 +9844,7 @@
     "quality_score": 9
   },
   {
-    "rank": 376,
+    "rank": 375,
     "store_name": "Deep Ayurveda India",
     "domain_url": "https://deepayurveda.in",
     "emails": [
@@ -9905,7 +9870,7 @@
     "quality_score": 9
   },
   {
-    "rank": 377,
+    "rank": 376,
     "store_name": "embroiderymaterial.com",
     "domain_url": "https://embroiderymaterial.com",
     "emails": [
@@ -9931,7 +9896,7 @@
     "quality_score": 9
   },
   {
-    "rank": 378,
+    "rank": 377,
     "store_name": "Glamour World Ayurvedic ",
     "domain_url": "https://gwayurvedic.com",
     "emails": [
@@ -9956,7 +9921,7 @@
     "quality_score": 9
   },
   {
-    "rank": 379,
+    "rank": 378,
     "store_name": "AreoVeda",
     "domain_url": "https://areoveda.in",
     "emails": [
@@ -9981,7 +9946,7 @@
     "quality_score": 9
   },
   {
-    "rank": 380,
+    "rank": 379,
     "store_name": "autoengina.com",
     "domain_url": "https://autoengina.com",
     "emails": [
@@ -10006,7 +9971,7 @@
     "quality_score": 9
   },
   {
-    "rank": 381,
+    "rank": 380,
     "store_name": "Chitra Apparels",
     "domain_url": "https://chitraapparel.com",
     "emails": [
@@ -10033,11 +9998,10 @@
     "quality_score": 9
   },
   {
-    "rank": 382,
+    "rank": 381,
     "store_name": "Hari Darshan",
     "domain_url": "https://haridarshan.com",
     "emails": [
-      ":team@haridarshan.com",
       "sales@haridarshan.com",
       "team@haridarshan.com",
       "ecommerce@haridarshan.com"
@@ -10061,7 +10025,7 @@
     "quality_score": 9
   },
   {
-    "rank": 383,
+    "rank": 382,
     "store_name": "BATTERYWORKS",
     "domain_url": "https://batteryworks.in",
     "emails": [
@@ -10086,7 +10050,7 @@
     "quality_score": 9
   },
   {
-    "rank": 384,
+    "rank": 383,
     "store_name": "Discov Accessories",
     "domain_url": "https://discovaccessories.com",
     "emails": [
@@ -10111,7 +10075,7 @@
     "quality_score": 9
   },
   {
-    "rank": 385,
+    "rank": 384,
     "store_name": "Helios India",
     "domain_url": "https://heliosindia.com",
     "emails": [
@@ -10138,7 +10102,7 @@
     "quality_score": 9
   },
   {
-    "rank": 386,
+    "rank": 385,
     "store_name": "Bike Experts-WholeSale Two Wheeler Riding Gears & Accessories Store",
     "domain_url": "https://bikeexperts.in",
     "emails": [
@@ -10164,7 +10128,7 @@
     "quality_score": 9
   },
   {
-    "rank": 387,
+    "rank": 386,
     "store_name": "BoboGears",
     "domain_url": "https://bobogears.com",
     "emails": [
@@ -10193,7 +10157,7 @@
     "quality_score": 9
   },
   {
-    "rank": 388,
+    "rank": 387,
     "store_name": "Charactr",
     "domain_url": "https://charactr.in",
     "emails": [
@@ -10219,7 +10183,7 @@
     "quality_score": 9
   },
   {
-    "rank": 389,
+    "rank": 388,
     "store_name": "Espanshe",
     "domain_url": "https://espanshe.com",
     "emails": [
@@ -10245,7 +10209,7 @@
     "quality_score": 9
   },
   {
-    "rank": 390,
+    "rank": 389,
     "store_name": "GrandPitstop",
     "domain_url": "https://grandpitstop.com",
     "emails": [
@@ -10272,7 +10236,7 @@
     "quality_score": 9
   },
   {
-    "rank": 391,
+    "rank": 390,
     "store_name": "CarryPro",
     "domain_url": "https://carrypro.in",
     "emails": [
@@ -10297,7 +10261,7 @@
     "quality_score": 9
   },
   {
-    "rank": 392,
+    "rank": 391,
     "store_name": "CuratCart : Beauty Curated for You",
     "domain_url": "https://curatcart.com",
     "emails": [
@@ -10322,7 +10286,7 @@
     "quality_score": 9
   },
   {
-    "rank": 393,
+    "rank": 392,
     "store_name": "AMINU",
     "domain_url": "https://aminu.life",
     "emails": [
@@ -10352,7 +10316,7 @@
     "quality_score": 9
   },
   {
-    "rank": 394,
+    "rank": 393,
     "store_name": "Auli Lifestyle",
     "domain_url": "https://aulilifestyle.com",
     "emails": [
@@ -10378,7 +10342,7 @@
     "quality_score": 9
   },
   {
-    "rank": 395,
+    "rank": 394,
     "store_name": "A1 CHIPS",
     "domain_url": "https://buya1chips.com",
     "emails": [
@@ -10403,7 +10367,7 @@
     "quality_score": 9
   },
   {
-    "rank": 396,
+    "rank": 395,
     "store_name": "DNINE",
     "domain_url": "https://dninesports.com",
     "emails": [
@@ -10430,11 +10394,11 @@
     "quality_score": 9
   },
   {
-    "rank": 397,
+    "rank": 396,
     "store_name": "Gatim Fashions",
     "domain_url": "https://gatim.in",
     "emails": [
-      "%0ainfo@gatim.in",
+      "info@gatim.in",
       "online@gatim.in",
       "support@gatim.in",
       "customercare@tcnsclothing.com",
@@ -10460,7 +10424,7 @@
     "quality_score": 9
   },
   {
-    "rank": 398,
+    "rank": 397,
     "store_name": "Anmasa-store",
     "domain_url": "https://anmasa.com",
     "emails": [
@@ -10486,7 +10450,7 @@
     "quality_score": 9
   },
   {
-    "rank": 399,
+    "rank": 398,
     "store_name": "15 No. ChawalWala",
     "domain_url": "https://15chawalwala.com",
     "emails": [
@@ -10512,7 +10476,7 @@
     "quality_score": 9
   },
   {
-    "rank": 400,
+    "rank": 399,
     "store_name": "Indian Book Depot (Map House)",
     "domain_url": "https://ibdmaphouse.com",
     "emails": [
@@ -10538,7 +10502,7 @@
     "quality_score": 9
   },
   {
-    "rank": 401,
+    "rank": 400,
     "store_name": "Blocktobox Online Enterprises Private Limited",
     "domain_url": "https://blocktobox.com",
     "emails": [
@@ -10563,7 +10527,7 @@
     "quality_score": 9
   },
   {
-    "rank": 402,
+    "rank": 401,
     "store_name": "CBD Store India",
     "domain_url": "https://cbdstore.in",
     "emails": [
@@ -10592,7 +10556,7 @@
     "quality_score": 9
   },
   {
-    "rank": 403,
+    "rank": 402,
     "store_name": "HEllO EDC",
     "domain_url": "https://helloedc.com",
     "emails": [
@@ -10618,7 +10582,7 @@
     "quality_score": 9
   },
   {
-    "rank": 404,
+    "rank": 403,
     "store_name": "HOMEDEKAR",
     "domain_url": "https://homedekar.com",
     "emails": [
@@ -10643,7 +10607,7 @@
     "quality_score": 9
   },
   {
-    "rank": 405,
+    "rank": 404,
     "store_name": "eOURmart.com",
     "domain_url": "https://eourmart.com",
     "emails": [
@@ -10671,7 +10635,7 @@
     "quality_score": 9
   },
   {
-    "rank": 406,
+    "rank": 405,
     "store_name": "Saubhagyavati Jewellery",
     "domain_url": "https://saubhagyavati.in",
     "emails": [
@@ -10697,7 +10661,7 @@
     "quality_score": 9
   },
   {
-    "rank": 407,
+    "rank": 406,
     "store_name": "Bharat Wholesales",
     "domain_url": "https://bharatwholesales.in",
     "emails": [
@@ -10723,7 +10687,7 @@
     "quality_score": 9
   },
   {
-    "rank": 408,
+    "rank": 407,
     "store_name": "BOXNUBE",
     "domain_url": "https://boxnube.in",
     "emails": [
@@ -10749,7 +10713,7 @@
     "quality_score": 9
   },
   {
-    "rank": 409,
+    "rank": 408,
     "store_name": "PNG Jewellers",
     "domain_url": "https://pngjewellers.com",
     "emails": [
@@ -10776,7 +10740,7 @@
     "quality_score": 8
   },
   {
-    "rank": 410,
+    "rank": 409,
     "store_name": "Pothys",
     "domain_url": "https://pothys.com",
     "emails": [
@@ -10803,7 +10767,7 @@
     "quality_score": 8
   },
   {
-    "rank": 411,
+    "rank": 410,
     "store_name": "Sri Sakthi Pugazh Tex",
     "domain_url": "https://ssptex.com",
     "emails": [
@@ -10833,7 +10797,7 @@
     "quality_score": 8
   },
   {
-    "rank": 412,
+    "rank": 411,
     "store_name": "TIGC",
     "domain_url": "https://tigc.in",
     "emails": [
@@ -10859,7 +10823,7 @@
     "quality_score": 8
   },
   {
-    "rank": 413,
+    "rank": 412,
     "store_name": "Powerlook",
     "domain_url": "https://powerlook.in",
     "emails": [
@@ -10884,7 +10848,7 @@
     "quality_score": 8
   },
   {
-    "rank": 414,
+    "rank": 413,
     "store_name": "Aukera Jewellery",
     "domain_url": "https://aukerajewellery.com",
     "emails": [
@@ -10910,7 +10874,7 @@
     "quality_score": 8
   },
   {
-    "rank": 415,
+    "rank": 414,
     "store_name": "Blackberrys Menswear",
     "domain_url": "https://blackberrys.com",
     "emails": [
@@ -10936,7 +10900,7 @@
     "quality_score": 8
   },
   {
-    "rank": 416,
+    "rank": 415,
     "store_name": "Triveni World",
     "domain_url": "https://triveniworld.com",
     "emails": [
@@ -10961,7 +10925,7 @@
     "quality_score": 8
   },
   {
-    "rank": 417,
+    "rank": 416,
     "store_name": "prabhatex",
     "domain_url": "https://prabhatex.com",
     "emails": [
@@ -10989,7 +10953,7 @@
     "quality_score": 8
   },
   {
-    "rank": 418,
+    "rank": 417,
     "store_name": "Sreeleathers Kolkata ",
     "domain_url": "https://sreeleathers.com",
     "emails": [
@@ -11016,7 +10980,7 @@
     "quality_score": 8
   },
   {
-    "rank": 419,
+    "rank": 418,
     "store_name": "Warriorworld",
     "domain_url": "https://warriorworld.in",
     "emails": [
@@ -11042,7 +11006,7 @@
     "quality_score": 8
   },
   {
-    "rank": 420,
+    "rank": 419,
     "store_name": "MyBorosil",
     "domain_url": "https://myborosil.com",
     "emails": [
@@ -11069,7 +11033,7 @@
     "quality_score": 8
   },
   {
-    "rank": 421,
+    "rank": 420,
     "store_name": "Kushal's Retail Pvt Ltd.",
     "domain_url": "https://kushals.com",
     "emails": [
@@ -11094,7 +11058,7 @@
     "quality_score": 8
   },
   {
-    "rank": 422,
+    "rank": 421,
     "store_name": "MakerBazar.in",
     "domain_url": "https://makerbazar.in",
     "emails": [
@@ -11120,7 +11084,7 @@
     "quality_score": 8
   },
   {
-    "rank": 423,
+    "rank": 422,
     "store_name": "Harish Projects",
     "domain_url": "https://harishprojects.com",
     "emails": [
@@ -11146,12 +11110,11 @@
     "quality_score": 8
   },
   {
-    "rank": 424,
+    "rank": 423,
     "store_name": "KCPC Bandhani",
     "domain_url": "https://onlinebandhej.com",
     "emails": [
       "support@onlinebandhej.com",
-      "khat",
       "khatushayamcreations@gmail.com"
     ],
     "phones": [
@@ -11173,7 +11136,7 @@
     "quality_score": 8
   },
   {
-    "rank": 425,
+    "rank": 424,
     "store_name": "U.S. Polo Assn. India",
     "domain_url": "https://uspoloassn.in",
     "emails": [
@@ -11198,7 +11161,7 @@
     "quality_score": 8
   },
   {
-    "rank": 426,
+    "rank": 425,
     "store_name": "Portronics ",
     "domain_url": "https://portronics.com",
     "emails": [
@@ -11223,7 +11186,7 @@
     "quality_score": 8
   },
   {
-    "rank": 427,
+    "rank": 426,
     "store_name": "cforcover.com",
     "domain_url": "https://cforcover.com",
     "emails": [
@@ -11249,7 +11212,7 @@
     "quality_score": 8
   },
   {
-    "rank": 428,
+    "rank": 427,
     "store_name": "Filo Hevis",
     "domain_url": "https://filohevis.com",
     "emails": [
@@ -11274,7 +11237,7 @@
     "quality_score": 8
   },
   {
-    "rank": 429,
+    "rank": 428,
     "store_name": "Gemsmantra",
     "domain_url": "https://gemsmantra.com",
     "emails": [
@@ -11303,7 +11266,7 @@
     "quality_score": 8
   },
   {
-    "rank": 430,
+    "rank": 429,
     "store_name": "TecSox",
     "domain_url": "https://tecsox.com",
     "emails": [
@@ -11328,7 +11291,7 @@
     "quality_score": 8
   },
   {
-    "rank": 431,
+    "rank": 430,
     "store_name": "Amalfa",
     "domain_url": "https://amalfa.in",
     "emails": [
@@ -11354,7 +11317,7 @@
     "quality_score": 8
   },
   {
-    "rank": 432,
+    "rank": 431,
     "store_name": "Infinix Mobiles",
     "domain_url": "https://infinixmobiles.in",
     "emails": [
@@ -11384,7 +11347,7 @@
     "quality_score": 8
   },
   {
-    "rank": 433,
+    "rank": 432,
     "store_name": "Fixderma Skincare",
     "domain_url": "https://fixderma.com",
     "emails": [
@@ -11409,7 +11372,7 @@
     "quality_score": 8
   },
   {
-    "rank": 434,
+    "rank": 433,
     "store_name": "InsightCosmetics",
     "domain_url": "https://insightcosmetics.in",
     "emails": [
@@ -11437,7 +11400,7 @@
     "quality_score": 8
   },
   {
-    "rank": 435,
+    "rank": 434,
     "store_name": "Redchief",
     "domain_url": "https://redchief.in",
     "emails": [
@@ -11465,7 +11428,7 @@
     "quality_score": 8
   },
   {
-    "rank": 436,
+    "rank": 435,
     "store_name": "STICK IT UP",
     "domain_url": "https://stickitup.xyz",
     "emails": [
@@ -11490,7 +11453,7 @@
     "quality_score": 8
   },
   {
-    "rank": 437,
+    "rank": 436,
     "store_name": "IMS Mercantiles Limited",
     "domain_url": "https://digitek.net.in",
     "emails": [
@@ -11518,7 +11481,7 @@
     "quality_score": 8
   },
   {
-    "rank": 438,
+    "rank": 437,
     "store_name": "Farida Gupta India",
     "domain_url": "https://faridagupta.com",
     "emails": [
@@ -11544,7 +11507,7 @@
     "quality_score": 8
   },
   {
-    "rank": 439,
+    "rank": 438,
     "store_name": "Glen Appliances Pvt. Ltd",
     "domain_url": "https://glenindia.com",
     "emails": [
@@ -11572,7 +11535,7 @@
     "quality_score": 8
   },
   {
-    "rank": 440,
+    "rank": 439,
     "store_name": "SPARIFY",
     "domain_url": "https://sparify.co",
     "emails": [
@@ -11599,7 +11562,7 @@
     "quality_score": 8
   },
   {
-    "rank": 441,
+    "rank": 440,
     "store_name": "Pebble",
     "domain_url": "https://pebblecart.com",
     "emails": [
@@ -11625,7 +11588,7 @@
     "quality_score": 8
   },
   {
-    "rank": 442,
+    "rank": 441,
     "store_name": "Shesha Ayurveda",
     "domain_url": "https://sheshaayurveda.com",
     "emails": [
@@ -11654,7 +11617,7 @@
     "quality_score": 8
   },
   {
-    "rank": 443,
+    "rank": 442,
     "store_name": "BAJAAO.COM",
     "domain_url": "https://bajaao.com",
     "emails": [
@@ -11680,7 +11643,7 @@
     "quality_score": 8
   },
   {
-    "rank": 444,
+    "rank": 443,
     "store_name": "Himalaya Wellness (India)",
     "domain_url": "https://himalayawellness.in",
     "emails": [
@@ -11706,7 +11669,7 @@
     "quality_score": 8
   },
   {
-    "rank": 445,
+    "rank": 444,
     "store_name": "Abros Sports",
     "domain_url": "https://abrosshoes.com",
     "emails": [
@@ -11731,7 +11694,7 @@
     "quality_score": 8
   },
   {
-    "rank": 446,
+    "rank": 445,
     "store_name": "ARYA CREATION",
     "domain_url": "https://aryacreation.in",
     "emails": [
@@ -11756,7 +11719,7 @@
     "quality_score": 8
   },
   {
-    "rank": 447,
+    "rank": 446,
     "store_name": "Bloomica",
     "domain_url": "https://bloomica.in",
     "emails": [
@@ -11782,11 +11745,10 @@
     "quality_score": 8
   },
   {
-    "rank": 448,
+    "rank": 447,
     "store_name": "Cottonking",
     "domain_url": "https://cottonking.com",
     "emails": [
-      "%20info@cottonking.com",
       "info@cottonking.com"
     ],
     "phones": [
@@ -11809,7 +11771,7 @@
     "quality_score": 8
   },
   {
-    "rank": 449,
+    "rank": 448,
     "store_name": "DESI SITARA",
     "domain_url": "https://desisitara.com",
     "emails": [
@@ -11835,7 +11797,7 @@
     "quality_score": 8
   },
   {
-    "rank": 450,
+    "rank": 449,
     "store_name": "Doctor Extra Soft",
     "domain_url": "https://doctorextrasoft.com",
     "emails": [
@@ -11863,7 +11825,7 @@
     "quality_score": 8
   },
   {
-    "rank": 451,
+    "rank": 450,
     "store_name": "Fashion Dream",
     "domain_url": "https://fashiondream.co.in",
     "emails": [
@@ -11889,7 +11851,7 @@
     "quality_score": 8
   },
   {
-    "rank": 452,
+    "rank": 451,
     "store_name": " FGEAR.in",
     "domain_url": "https://fgear.in",
     "emails": [
@@ -11914,7 +11876,7 @@
     "quality_score": 8
   },
   {
-    "rank": 453,
+    "rank": 452,
     "store_name": "Fuel Shoes",
     "domain_url": "https://fuelshoes.com",
     "emails": [
@@ -11939,7 +11901,7 @@
     "quality_score": 8
   },
   {
-    "rank": 454,
+    "rank": 453,
     "store_name": "CHK",
     "domain_url": "https://gochk.co",
     "emails": [
@@ -11965,7 +11927,7 @@
     "quality_score": 8
   },
   {
-    "rank": 455,
+    "rank": 454,
     "store_name": "IDCULT",
     "domain_url": "https://idcult.com",
     "emails": [
@@ -11990,7 +11952,7 @@
     "quality_score": 8
   },
   {
-    "rank": 456,
+    "rank": 455,
     "store_name": "Indiclub.shop",
     "domain_url": "https://indiclub.shop",
     "emails": [
@@ -12016,7 +11978,7 @@
     "quality_score": 8
   },
   {
-    "rank": 457,
+    "rank": 456,
     "store_name": "jaipurkurti",
     "domain_url": "https://jaipurkurti.com",
     "emails": [
@@ -12043,7 +12005,7 @@
     "quality_score": 8
   },
   {
-    "rank": 458,
+    "rank": 457,
     "store_name": "Kalamandir",
     "domain_url": "https://kalamandir.com",
     "emails": [
@@ -12071,7 +12033,7 @@
     "quality_score": 8
   },
   {
-    "rank": 459,
+    "rank": 458,
     "store_name": "Karagiri",
     "domain_url": "https://karagiri.com",
     "emails": [
@@ -12097,7 +12059,7 @@
     "quality_score": 8
   },
   {
-    "rank": 460,
+    "rank": 459,
     "store_name": "Karizma Jewels",
     "domain_url": "https://karizmajewels.in",
     "emails": [
@@ -12125,7 +12087,7 @@
     "quality_score": 8
   },
   {
-    "rank": 461,
+    "rank": 460,
     "store_name": "London Cotton",
     "domain_url": "https://londoncotton.in",
     "emails": [
@@ -12150,7 +12112,7 @@
     "quality_score": 8
   },
   {
-    "rank": 462,
+    "rank": 461,
     "store_name": "Lukson",
     "domain_url": "https://lukson.co",
     "emails": [
@@ -12176,7 +12138,7 @@
     "quality_score": 8
   },
   {
-    "rank": 463,
+    "rank": 462,
     "store_name": "myTrident India",
     "domain_url": "https://mytrident.com",
     "emails": [
@@ -12202,7 +12164,7 @@
     "quality_score": 8
   },
   {
-    "rank": 464,
+    "rank": 463,
     "store_name": "Nilu's Collection",
     "domain_url": "https://niluscollection.com",
     "emails": [
@@ -12227,7 +12189,7 @@
     "quality_score": 8
   },
   {
-    "rank": 465,
+    "rank": 464,
     "store_name": "Numero Uno",
     "domain_url": "https://numerounojeanswear.com",
     "emails": [
@@ -12253,7 +12215,7 @@
     "quality_score": 8
   },
   {
-    "rank": 466,
+    "rank": 465,
     "store_name": "orangesugar",
     "domain_url": "https://orangesugar.in",
     "emails": [
@@ -12278,7 +12240,7 @@
     "quality_score": 8
   },
   {
-    "rank": 467,
+    "rank": 466,
     "store_name": "Panjavarnam",
     "domain_url": "https://panjavarnam.com",
     "emails": [
@@ -12303,7 +12265,7 @@
     "quality_score": 8
   },
   {
-    "rank": 468,
+    "rank": 467,
     "store_name": "Pierre Cardin",
     "domain_url": "https://pierrecardinindia.com",
     "emails": [
@@ -12329,7 +12291,7 @@
     "quality_score": 8
   },
   {
-    "rank": 469,
+    "rank": 468,
     "store_name": "Provogue",
     "domain_url": "https://provogue.com",
     "emails": [
@@ -12354,7 +12316,7 @@
     "quality_score": 8
   },
   {
-    "rank": 470,
+    "rank": 469,
     "store_name": "RayGlow",
     "domain_url": "https://rayglow.in",
     "emails": [
@@ -12381,7 +12343,7 @@
     "quality_score": 8
   },
   {
-    "rank": 471,
+    "rank": 470,
     "store_name": "Joules by Radhika ",
     "domain_url": "https://shopjbr.com",
     "emails": [
@@ -12407,12 +12369,11 @@
     "quality_score": 8
   },
   {
-    "rank": 472,
+    "rank": 471,
     "store_name": "SilkFolks",
     "domain_url": "https://silkfolks.com",
     "emails": [
-      "support@silkfolks.com",
-      "%0asupport@silkfolks.com"
+      "support@silkfolks.com"
     ],
     "phones": [
       "+919099846382"
@@ -12433,7 +12394,7 @@
     "quality_score": 8
   },
   {
-    "rank": 473,
+    "rank": 472,
     "store_name": "Silverfied",
     "domain_url": "https://silverfied.in",
     "emails": [
@@ -12458,7 +12419,7 @@
     "quality_score": 8
   },
   {
-    "rank": 474,
+    "rank": 473,
     "store_name": "Tarakaya Silver",
     "domain_url": "https://silvertarakaya.com",
     "emails": [
@@ -12484,7 +12445,7 @@
     "quality_score": 8
   },
   {
-    "rank": 475,
+    "rank": 474,
     "store_name": "Spiffers",
     "domain_url": "https://spiffers.in",
     "emails": [
@@ -12510,7 +12471,7 @@
     "quality_score": 8
   },
   {
-    "rank": 476,
+    "rank": 475,
     "store_name": "Taruni Clothing",
     "domain_url": "https://taruni.in",
     "emails": [
@@ -12535,7 +12496,7 @@
     "quality_score": 8
   },
   {
-    "rank": 477,
+    "rank": 476,
     "store_name": "THE RAJLAXMI JEWELLERS",
     "domain_url": "https://therajlaxmijewellers.in",
     "emails": [
@@ -12561,32 +12522,7 @@
     "quality_score": 8
   },
   {
-    "rank": 478,
-    "store_name": "trueBrowns",
-    "domain_url": "https://truebrowns.com",
-    "emails": [
-      "info@truebrowns.com"
-    ],
-    "phones": [
-      "+918384046951"
-    ],
-    "instagram": "https://www.instagram.com/truebrowns",
-    "facebook": "https://www.facebook.com/TrueBrownsGlobal",
-    "twitter": "",
-    "linkedin": "https://in.linkedin.com/company/truebrowns-lifestyle-pvt-ltd",
-    "youtube": "https://www.youtube.com/@truebrowns122",
-    "category": "Apparel & Fashion",
-    "tagline": "Top Clothing Brands in India for Womens - Buy Contemporary Dresses at trueBrowns. Free Shipping, COD, 7 Days Return, 24-hr Dispatch.",
-    "tagline_source": "meta_json",
-    "logo_url": "https://www.truebrowns.com/cdn/shop/files/Brand_w_o_Bkgrnd_Final_cdf948ea-a6cf-4fcb-8184-fe7ee81dc5e7.png?v=1675752714&width=2470",
-    "state": "Haryana",
-    "city": "Gurgaon",
-    "gstin": "",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Haryana; +91 phone on site",
-    "quality_score": 8
-  },
-  {
-    "rank": 479,
+    "rank": 477,
     "store_name": "vastrang.in",
     "domain_url": "https://vastrang.in",
     "emails": [
@@ -12611,7 +12547,7 @@
     "quality_score": 8
   },
   {
-    "rank": 480,
+    "rank": 478,
     "store_name": "Walusha",
     "domain_url": "https://walusha.in",
     "emails": [
@@ -12636,7 +12572,7 @@
     "quality_score": 8
   },
   {
-    "rank": 481,
+    "rank": 479,
     "store_name": "Yanchi",
     "domain_url": "https://yanchi.in",
     "emails": [
@@ -12663,7 +12599,7 @@
     "quality_score": 8
   },
   {
-    "rank": 482,
+    "rank": 480,
     "store_name": "DAKSHIS",
     "domain_url": "https://dakshis.com",
     "emails": [
@@ -12688,7 +12624,7 @@
     "quality_score": 8
   },
   {
-    "rank": 483,
+    "rank": 481,
     "store_name": "Ekana Label",
     "domain_url": "https://ekanalabel.com",
     "emails": [
@@ -12713,7 +12649,7 @@
     "quality_score": 8
   },
   {
-    "rank": 484,
+    "rank": 482,
     "store_name": "Fytika Healthcare Products",
     "domain_url": "https://fytika.com",
     "emails": [
@@ -12739,7 +12675,7 @@
     "quality_score": 8
   },
   {
-    "rank": 485,
+    "rank": 483,
     "store_name": "JISORA",
     "domain_url": "https://jisora.com",
     "emails": [
@@ -12765,7 +12701,7 @@
     "quality_score": 8
   },
   {
-    "rank": 486,
+    "rank": 484,
     "store_name": "John Ellies India",
     "domain_url": "https://johnellies.in",
     "emails": [
@@ -12790,7 +12726,7 @@
     "quality_score": 8
   },
   {
-    "rank": 487,
+    "rank": 485,
     "store_name": "Jompers",
     "domain_url": "https://jompers.com",
     "emails": [
@@ -12816,7 +12752,7 @@
     "quality_score": 8
   },
   {
-    "rank": 488,
+    "rank": 486,
     "store_name": "maizic",
     "domain_url": "https://maizic.com",
     "emails": [
@@ -12841,7 +12777,7 @@
     "quality_score": 8
   },
   {
-    "rank": 489,
+    "rank": 487,
     "store_name": "Rangita",
     "domain_url": "https://rangita.com",
     "emails": [
@@ -12866,7 +12802,7 @@
     "quality_score": 8
   },
   {
-    "rank": 490,
+    "rank": 488,
     "store_name": "Swtantra",
     "domain_url": "https://swtantra.com",
     "emails": [
@@ -12891,7 +12827,7 @@
     "quality_score": 8
   },
   {
-    "rank": 491,
+    "rank": 489,
     "store_name": "U Are Jewellery",
     "domain_url": "https://uare.co",
     "emails": [
@@ -12916,7 +12852,7 @@
     "quality_score": 8
   },
   {
-    "rank": 492,
+    "rank": 490,
     "store_name": "ZIVAMOMS",
     "domain_url": "https://zivamoms.com",
     "emails": [
@@ -12942,7 +12878,7 @@
     "quality_score": 8
   },
   {
-    "rank": 493,
+    "rank": 491,
     "store_name": "BLACK MAMBA",
     "domain_url": "https://blackmambajewellery.com",
     "emails": [
@@ -12967,7 +12903,7 @@
     "quality_score": 8
   },
   {
-    "rank": 494,
+    "rank": 492,
     "store_name": "DCT Dream Comes True ",
     "domain_url": "https://dctclothing.store",
     "emails": [
@@ -12993,7 +12929,7 @@
     "quality_score": 8
   },
   {
-    "rank": 495,
+    "rank": 493,
     "store_name": "Hues Fab",
     "domain_url": "https://huesfab.com",
     "emails": [
@@ -13021,7 +12957,7 @@
     "quality_score": 8
   },
   {
-    "rank": 496,
+    "rank": 494,
     "store_name": "Ibis Fab",
     "domain_url": "https://ibisfab.com",
     "emails": [
@@ -13046,7 +12982,7 @@
     "quality_score": 8
   },
   {
-    "rank": 497,
+    "rank": 495,
     "store_name": "Lavie World",
     "domain_url": "https://lavieworld.com",
     "emails": [
@@ -13073,7 +13009,7 @@
     "quality_score": 8
   },
   {
-    "rank": 498,
+    "rank": 496,
     "store_name": "Laxmipati Sarees | Sale",
     "domain_url": "https://laxmipati.com",
     "emails": [
@@ -13101,7 +13037,7 @@
     "quality_score": 8
   },
   {
-    "rank": 499,
+    "rank": 497,
     "store_name": "MACS",
     "domain_url": "https://macsjewelry.com",
     "emails": [
@@ -13128,7 +13064,7 @@
     "quality_score": 8
   },
   {
-    "rank": 500,
+    "rank": 498,
     "store_name": "Parakkat Jewels",
     "domain_url": "https://parakkatjewels.com",
     "emails": [
@@ -13153,7 +13089,7 @@
     "quality_score": 8
   },
   {
-    "rank": 501,
+    "rank": 499,
     "store_name": "JhaJi Store",
     "domain_url": "https://jhajistore.com",
     "emails": [
@@ -13179,7 +13115,7 @@
     "quality_score": 8
   },
   {
-    "rank": 502,
+    "rank": 500,
     "store_name": "AashirsLifestyle",
     "domain_url": "https://aashirs.com",
     "emails": [
@@ -13205,7 +13141,7 @@
     "quality_score": 8
   },
   {
-    "rank": 503,
+    "rank": 501,
     "store_name": "bAbli",
     "domain_url": "https://babli.in",
     "emails": [
@@ -13230,7 +13166,7 @@
     "quality_score": 8
   },
   {
-    "rank": 504,
+    "rank": 502,
     "store_name": "Chapter 2 Clothing",
     "domain_url": "https://chapter2drip.com",
     "emails": [
@@ -13256,7 +13192,7 @@
     "quality_score": 8
   },
   {
-    "rank": 505,
+    "rank": 503,
     "store_name": "CLAZZEY",
     "domain_url": "https://clazzey.com",
     "emails": [
@@ -13282,7 +13218,7 @@
     "quality_score": 8
   },
   {
-    "rank": 506,
+    "rank": 504,
     "store_name": "Curious Cub",
     "domain_url": "https://curiouscub.in",
     "emails": [
@@ -13308,7 +13244,7 @@
     "quality_score": 8
   },
   {
-    "rank": 507,
+    "rank": 505,
     "store_name": "Invoguishindia",
     "domain_url": "https://invoguish.in",
     "emails": [
@@ -13336,7 +13272,7 @@
     "quality_score": 8
   },
   {
-    "rank": 508,
+    "rank": 506,
     "store_name": "Kaftanize",
     "domain_url": "https://kaftanize.com",
     "emails": [
@@ -13364,7 +13300,7 @@
     "quality_score": 8
   },
   {
-    "rank": 509,
+    "rank": 507,
     "store_name": "mamansh",
     "domain_url": "https://mamansh.com",
     "emails": [
@@ -13389,7 +13325,7 @@
     "quality_score": 8
   },
   {
-    "rank": 510,
+    "rank": 508,
     "store_name": "Nostrum",
     "domain_url": "https://nostrumfashion.com",
     "emails": [
@@ -13414,7 +13350,7 @@
     "quality_score": 8
   },
   {
-    "rank": 511,
+    "rank": 509,
     "store_name": "OUTCAST",
     "domain_url": "https://outcasts.in",
     "emails": [
@@ -13440,7 +13376,7 @@
     "quality_score": 8
   },
   {
-    "rank": 512,
+    "rank": 510,
     "store_name": "P E R C H",
     "domain_url": "https://perch.co.in",
     "emails": [
@@ -13466,7 +13402,7 @@
     "quality_score": 8
   },
   {
-    "rank": 513,
+    "rank": 511,
     "store_name": "Rclub",
     "domain_url": "https://rclub.in",
     "emails": [
@@ -13491,7 +13427,7 @@
     "quality_score": 8
   },
   {
-    "rank": 514,
+    "rank": 512,
     "store_name": "Rimli Boutique",
     "domain_url": "https://rimli.in",
     "emails": [
@@ -13516,7 +13452,7 @@
     "quality_score": 8
   },
   {
-    "rank": 515,
+    "rank": 513,
     "store_name": "RmKV Silks Private Ltd",
     "domain_url": "https://rmkv.com",
     "emails": [
@@ -13541,12 +13477,11 @@
     "quality_score": 8
   },
   {
-    "rank": 516,
+    "rank": 514,
     "store_name": "Rosso Brunello Leathers Pvt. Ltd.",
     "domain_url": "https://rossobrunello.com",
     "emails": [
       "online@rossobrunello.com",
-      "www.rossobrunello.com",
       "online@rossobrunello.co.in",
       "info@rossobrunello.com"
     ],
@@ -13570,7 +13505,7 @@
     "quality_score": 8
   },
   {
-    "rank": 517,
+    "rank": 515,
     "store_name": "SABHYATA CLOTHING",
     "domain_url": "https://sabhyataclothing.com",
     "emails": [
@@ -13597,7 +13532,7 @@
     "quality_score": 8
   },
   {
-    "rank": 518,
+    "rank": 516,
     "store_name": "ShriandSam",
     "domain_url": "https://shriandsam.com",
     "emails": [
@@ -13622,7 +13557,7 @@
     "quality_score": 8
   },
   {
-    "rank": 519,
+    "rank": 517,
     "store_name": "Valli Silks",
     "domain_url": "https://thevallisilks.com",
     "emails": [
@@ -13647,7 +13582,7 @@
     "quality_score": 8
   },
   {
-    "rank": 520,
+    "rank": 518,
     "store_name": "Zodiac Finest Quality Clothing",
     "domain_url": "https://zodiaconline.com",
     "emails": [
@@ -13676,7 +13611,7 @@
     "quality_score": 8
   },
   {
-    "rank": 521,
+    "rank": 519,
     "store_name": "LightYears Health",
     "domain_url": "https://lightyearshealth.com",
     "emails": [
@@ -13703,7 +13638,7 @@
     "quality_score": 8
   },
   {
-    "rank": 522,
+    "rank": 520,
     "store_name": "Basanti Kapde aur Koffee",
     "domain_url": "https://basantikekapde.com",
     "emails": [
@@ -13729,7 +13664,7 @@
     "quality_score": 8
   },
   {
-    "rank": 523,
+    "rank": 521,
     "store_name": "Dr Vaidya's",
     "domain_url": "https://drvaidyas.com",
     "emails": [
@@ -13754,7 +13689,7 @@
     "quality_score": 8
   },
   {
-    "rank": 524,
+    "rank": 522,
     "store_name": "Estele",
     "domain_url": "https://estele.co",
     "emails": [
@@ -13779,7 +13714,7 @@
     "quality_score": 8
   },
   {
-    "rank": 525,
+    "rank": 523,
     "store_name": "fancydresswale.com",
     "domain_url": "https://fancydresswale.com",
     "emails": [
@@ -13804,7 +13739,7 @@
     "quality_score": 8
   },
   {
-    "rank": 526,
+    "rank": 524,
     "store_name": "Justwowfactory",
     "domain_url": "https://justwowfactory.com",
     "emails": [
@@ -13830,7 +13765,7 @@
     "quality_score": 8
   },
   {
-    "rank": 527,
+    "rank": 525,
     "store_name": "THE PLUS SIZE STORE by Meera Creations",
     "domain_url": "https://meerasplussizestore.com",
     "emails": [
@@ -13855,7 +13790,7 @@
     "quality_score": 8
   },
   {
-    "rank": 528,
+    "rank": 526,
     "store_name": "Numour",
     "domain_url": "https://numour.com",
     "emails": [
@@ -13882,7 +13817,7 @@
     "quality_score": 8
   },
   {
-    "rank": 529,
+    "rank": 527,
     "store_name": "TRIPR",
     "domain_url": "https://triprindia.com",
     "emails": [
@@ -13909,7 +13844,7 @@
     "quality_score": 8
   },
   {
-    "rank": 530,
+    "rank": 528,
     "store_name": "Aachifoods",
     "domain_url": "https://aachifoods.com",
     "emails": [
@@ -13936,7 +13871,7 @@
     "quality_score": 8
   },
   {
-    "rank": 531,
+    "rank": 529,
     "store_name": "Arata",
     "domain_url": "https://arata.in",
     "emails": [
@@ -13964,7 +13899,7 @@
     "quality_score": 8
   },
   {
-    "rank": 532,
+    "rank": 530,
     "store_name": "bigbanana",
     "domain_url": "https://bigbananaonline.com",
     "emails": [
@@ -13989,7 +13924,7 @@
     "quality_score": 8
   },
   {
-    "rank": 533,
+    "rank": 531,
     "store_name": "Cotton Cottage",
     "domain_url": "https://cottoncottageindia.com",
     "emails": [
@@ -14018,7 +13953,7 @@
     "quality_score": 8
   },
   {
-    "rank": 534,
+    "rank": 532,
     "store_name": "Cradiac Sports",
     "domain_url": "https://cradiac.com",
     "emails": [
@@ -14043,7 +13978,7 @@
     "quality_score": 8
   },
   {
-    "rank": 535,
+    "rank": 533,
     "store_name": "Earthful",
     "domain_url": "https://earthful.me",
     "emails": [
@@ -14069,7 +14004,7 @@
     "quality_score": 8
   },
   {
-    "rank": 536,
+    "rank": 534,
     "store_name": "Impex Webstore",
     "domain_url": "https://impexstore.com",
     "emails": [
@@ -14098,7 +14033,7 @@
     "quality_score": 8
   },
   {
-    "rank": 537,
+    "rank": 535,
     "store_name": "Lagorii Kids",
     "domain_url": "https://lagorii.com",
     "emails": [
@@ -14123,7 +14058,7 @@
     "quality_score": 8
   },
   {
-    "rank": 538,
+    "rank": 536,
     "store_name": "Lakshita",
     "domain_url": "https://lakshita.com",
     "emails": [
@@ -14149,7 +14084,7 @@
     "quality_score": 8
   },
   {
-    "rank": 539,
+    "rank": 537,
     "store_name": "MeChitrakar.com",
     "domain_url": "https://mechitrakar.com",
     "emails": [
@@ -14176,7 +14111,7 @@
     "quality_score": 8
   },
   {
-    "rank": 540,
+    "rank": 538,
     "store_name": "Meena Bazaar Shop",
     "domain_url": "https://meenabazaar.shop",
     "emails": [
@@ -14201,7 +14136,7 @@
     "quality_score": 8
   },
   {
-    "rank": 541,
+    "rank": 539,
     "store_name": "Mokshaa",
     "domain_url": "https://mokshaaworld.com",
     "emails": [
@@ -14229,7 +14164,7 @@
     "quality_score": 8
   },
   {
-    "rank": 542,
+    "rank": 540,
     "store_name": "Obeetee Pvt. Ltd.",
     "domain_url": "https://obeetee.in",
     "emails": [
@@ -14254,7 +14189,7 @@
     "quality_score": 8
   },
   {
-    "rank": 543,
+    "rank": 541,
     "store_name": "ODHNI",
     "domain_url": "https://odhni.com",
     "emails": [
@@ -14282,7 +14217,7 @@
     "quality_score": 8
   },
   {
-    "rank": 544,
+    "rank": 542,
     "store_name": "Prince N Princess",
     "domain_url": "https://princenprincess.in",
     "emails": [
@@ -14309,7 +14244,7 @@
     "quality_score": 8
   },
   {
-    "rank": 545,
+    "rank": 543,
     "store_name": "Raajraani",
     "domain_url": "https://raajraani.com",
     "emails": [
@@ -14337,7 +14272,7 @@
     "quality_score": 8
   },
   {
-    "rank": 546,
+    "rank": 544,
     "store_name": "Rosada Baby",
     "domain_url": "https://rosadababy.com",
     "emails": [
@@ -14362,7 +14297,7 @@
     "quality_score": 8
   },
   {
-    "rank": 547,
+    "rank": 545,
     "store_name": "Rustorange",
     "domain_url": "https://rustorange.com",
     "emails": [
@@ -14387,7 +14322,7 @@
     "quality_score": 8
   },
   {
-    "rank": 548,
+    "rank": 546,
     "store_name": "Sayali Rajadhyaksha Sarees",
     "domain_url": "https://sayalirajadhyakshasarees.com",
     "emails": [
@@ -14414,7 +14349,7 @@
     "quality_score": 8
   },
   {
-    "rank": 549,
+    "rank": 547,
     "store_name": "Securement Packaging Private Limited",
     "domain_url": "https://securement.in",
     "emails": [
@@ -14439,7 +14374,7 @@
     "quality_score": 8
   },
   {
-    "rank": 550,
+    "rank": 548,
     "store_name": "SkinKraft",
     "domain_url": "https://skinkraft.com",
     "emails": [
@@ -14464,7 +14399,7 @@
     "quality_score": 8
   },
   {
-    "rank": 551,
+    "rank": 549,
     "store_name": "Tarinika India",
     "domain_url": "https://tarinika.in",
     "emails": [
@@ -14491,7 +14426,7 @@
     "quality_score": 8
   },
   {
-    "rank": 552,
+    "rank": 550,
     "store_name": "TECMARX",
     "domain_url": "https://tecmarx.com",
     "emails": [
@@ -14516,7 +14451,7 @@
     "quality_score": 8
   },
   {
-    "rank": 553,
+    "rank": 551,
     "store_name": "The CAI Store",
     "domain_url": "https://thecaistore.com",
     "emails": [
@@ -14543,7 +14478,7 @@
     "quality_score": 8
   },
   {
-    "rank": 554,
+    "rank": 552,
     "store_name": "Moody Store",
     "domain_url": "https://trymoody.com",
     "emails": [
@@ -14568,7 +14503,7 @@
     "quality_score": 8
   },
   {
-    "rank": 555,
+    "rank": 553,
     "store_name": "Aham Designer Boutique",
     "domain_url": "https://aham.store",
     "emails": [
@@ -14594,7 +14529,7 @@
     "quality_score": 8
   },
   {
-    "rank": 556,
+    "rank": 554,
     "store_name": "Baftic",
     "domain_url": "https://baftic.com",
     "emails": [
@@ -14620,7 +14555,7 @@
     "quality_score": 8
   },
   {
-    "rank": 557,
+    "rank": 555,
     "store_name": "Bergner Home",
     "domain_url": "https://bergnerhome.in",
     "emails": [
@@ -14648,7 +14583,7 @@
     "quality_score": 8
   },
   {
-    "rank": 558,
+    "rank": 556,
     "store_name": "Bluer",
     "domain_url": "https://bluer.co.in",
     "emails": [
@@ -14673,7 +14608,7 @@
     "quality_score": 8
   },
   {
-    "rank": 559,
+    "rank": 557,
     "store_name": "Adira",
     "domain_url": "https://myadira.com",
     "emails": [
@@ -14700,7 +14635,7 @@
     "quality_score": 8
   },
   {
-    "rank": 560,
+    "rank": 558,
     "store_name": "Saral Home",
     "domain_url": "https://saralhome.com",
     "emails": [
@@ -14726,7 +14661,7 @@
     "quality_score": 8
   },
   {
-    "rank": 561,
+    "rank": 559,
     "store_name": "shahnaz.in",
     "domain_url": "https://shahnaz.in",
     "emails": [
@@ -14752,7 +14687,7 @@
     "quality_score": 8
   },
   {
-    "rank": 562,
+    "rank": 560,
     "store_name": "Tasty Nibbles",
     "domain_url": "https://tastynibbles.in",
     "emails": [
@@ -14779,7 +14714,7 @@
     "quality_score": 8
   },
   {
-    "rank": 563,
+    "rank": 561,
     "store_name": "The Audio Store",
     "domain_url": "https://theaudiostore.in",
     "emails": [
@@ -14804,7 +14739,7 @@
     "quality_score": 8
   },
   {
-    "rank": 564,
+    "rank": 562,
     "store_name": "Wedtree ",
     "domain_url": "https://wedtree.com",
     "emails": [
@@ -14830,7 +14765,7 @@
     "quality_score": 8
   },
   {
-    "rank": 565,
+    "rank": 563,
     "store_name": "A R Ayurveda Shop",
     "domain_url": "https://arayurveda.shop",
     "emails": [
@@ -14857,7 +14792,7 @@
     "quality_score": 8
   },
   {
-    "rank": 566,
+    "rank": 564,
     "store_name": "Aroma Care ",
     "domain_url": "https://aromacares.com",
     "emails": [
@@ -14883,7 +14818,7 @@
     "quality_score": 8
   },
   {
-    "rank": 567,
+    "rank": 565,
     "store_name": "CHOSEN Store",
     "domain_url": "https://chosenstore.in",
     "emails": [
@@ -14910,7 +14845,7 @@
     "quality_score": 8
   },
   {
-    "rank": 568,
+    "rank": 566,
     "store_name": "DESINOOR.COM",
     "domain_url": "https://desinoor.com",
     "emails": [
@@ -14935,7 +14870,7 @@
     "quality_score": 8
   },
   {
-    "rank": 569,
+    "rank": 567,
     "store_name": "www.krausjeans.com",
     "domain_url": "https://krausjeans.com",
     "emails": [
@@ -14962,7 +14897,7 @@
     "quality_score": 8
   },
   {
-    "rank": 570,
+    "rank": 568,
     "store_name": "Lea Clothing Co.",
     "domain_url": "https://leaclothingco.com",
     "emails": [
@@ -14987,7 +14922,7 @@
     "quality_score": 8
   },
   {
-    "rank": 571,
+    "rank": 569,
     "store_name": "Mumkins",
     "domain_url": "https://mumkins.in",
     "emails": [
@@ -15013,7 +14948,7 @@
     "quality_score": 8
   },
   {
-    "rank": 572,
+    "rank": 570,
     "store_name": "ONYC",
     "domain_url": "https://onyc.in",
     "emails": [
@@ -15041,7 +14976,7 @@
     "quality_score": 8
   },
   {
-    "rank": 573,
+    "rank": 571,
     "store_name": "Prakrithi By Ramya",
     "domain_url": "https://prakrithibyramya.com",
     "emails": [
@@ -15068,7 +15003,7 @@
     "quality_score": 8
   },
   {
-    "rank": 574,
+    "rank": 572,
     "store_name": "Rosier Foods",
     "domain_url": "https://rosierfoods.com",
     "emails": [
@@ -15094,7 +15029,7 @@
     "quality_score": 8
   },
   {
-    "rank": 575,
+    "rank": 573,
     "store_name": "ShopAtSC",
     "domain_url": "https://shopatsc.com",
     "emails": [
@@ -15121,7 +15056,7 @@
     "quality_score": 8
   },
   {
-    "rank": 576,
+    "rank": 574,
     "store_name": "Stylish Wodrobe",
     "domain_url": "https://stylishwodrobe.com",
     "emails": [
@@ -15148,7 +15083,7 @@
     "quality_score": 8
   },
   {
-    "rank": 577,
+    "rank": 575,
     "store_name": "Under Attack",
     "domain_url": "https://underattackapparel.com",
     "emails": [
@@ -15174,7 +15109,7 @@
     "quality_score": 8
   },
   {
-    "rank": 578,
+    "rank": 576,
     "store_name": "Verymiss ",
     "domain_url": "https://verymiss.in",
     "emails": [
@@ -15201,7 +15136,7 @@
     "quality_score": 8
   },
   {
-    "rank": 579,
+    "rank": 577,
     "store_name": "FEMMELLA",
     "domain_url": "https://femmella.com",
     "emails": [
@@ -15227,7 +15162,7 @@
     "quality_score": 8
   },
   {
-    "rank": 580,
+    "rank": 578,
     "store_name": "Healeo Nutrition",
     "domain_url": "https://healeo.in",
     "emails": [
@@ -15254,7 +15189,7 @@
     "quality_score": 8
   },
   {
-    "rank": 581,
+    "rank": 579,
     "store_name": "Kattam",
     "domain_url": "https://kattam.in",
     "emails": [
@@ -15280,7 +15215,7 @@
     "quality_score": 8
   },
   {
-    "rank": 582,
+    "rank": 580,
     "store_name": "Language Footwear & Accessories",
     "domain_url": "https://languageshoes.com",
     "emails": [
@@ -15306,7 +15241,7 @@
     "quality_score": 8
   },
   {
-    "rank": 583,
+    "rank": 581,
     "store_name": "Love Beauty & Planet",
     "domain_url": "https://lovebeautyandplanet.in",
     "emails": [
@@ -15333,7 +15268,7 @@
     "quality_score": 8
   },
   {
-    "rank": 584,
+    "rank": 582,
     "store_name": "Moms Home",
     "domain_url": "https://momshome.in",
     "emails": [
@@ -15361,34 +15296,7 @@
     "quality_score": 8
   },
   {
-    "rank": 585,
-    "store_name": "SAI HANDA BANGLES",
-    "domain_url": "https://saihandabangle.com",
-    "emails": [
-      "info@saihandabangle.com",
-      "support@saihandabangle.com"
-    ],
-    "phones": [
-      "+919217572236",
-      "+919971316105"
-    ],
-    "instagram": "https://www.instagram.com/saihanda_bangles",
-    "facebook": "https://www.facebook.com/profile.php?id=100090018375522",
-    "twitter": "",
-    "linkedin": "",
-    "youtube": "https://youtube.com/@sai_handa_bangles",
-    "category": "Jewellery & Accessories",
-    "tagline": "Discover premium 1 gram gold jewellery at Sai Handa Bangles. Shop bangles, necklaces, bridal sets & more. Trusted since 1999 with PAN India delivery.",
-    "tagline_source": "meta_json",
-    "logo_url": "https://www.saihandabangle.com/cdn/shop/files/LOGO-Sai_Handa.png?v=1772200983&width=1445",
-    "state": "Delhi",
-    "city": "New Delhi",
-    "gstin": "",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Delhi; +91 phone on site",
-    "quality_score": 8
-  },
-  {
-    "rank": 586,
+    "rank": 583,
     "store_name": "Sparkyjeans",
     "domain_url": "https://sparkyjeans.in",
     "emails": [
@@ -15414,7 +15322,7 @@
     "quality_score": 8
   },
   {
-    "rank": 587,
+    "rank": 584,
     "store_name": "The Trouser Lab",
     "domain_url": "https://thetrouserlab.com",
     "emails": [
@@ -15439,7 +15347,7 @@
     "quality_score": 8
   },
   {
-    "rank": 588,
+    "rank": 585,
     "store_name": "Trendize",
     "domain_url": "https://trendize.in",
     "emails": [
@@ -15467,7 +15375,7 @@
     "quality_score": 8
   },
   {
-    "rank": 589,
+    "rank": 586,
     "store_name": "Ivory Natural",
     "domain_url": "https://ivorynatural.com",
     "emails": [
@@ -15494,7 +15402,7 @@
     "quality_score": 8
   },
   {
-    "rank": 590,
+    "rank": 587,
     "store_name": "KiddiKind",
     "domain_url": "https://kiddikind.com",
     "emails": [
@@ -15519,7 +15427,7 @@
     "quality_score": 8
   },
   {
-    "rank": 591,
+    "rank": 588,
     "store_name": "ADRO Fashion",
     "domain_url": "https://adro.in",
     "emails": [
@@ -15545,7 +15453,7 @@
     "quality_score": 8
   },
   {
-    "rank": 592,
+    "rank": 589,
     "store_name": "Anand Sweets & Savouries",
     "domain_url": "https://anandsweets.in",
     "emails": [
@@ -15572,7 +15480,7 @@
     "quality_score": 8
   },
   {
-    "rank": 593,
+    "rank": 590,
     "store_name": "GirOrganic",
     "domain_url": "https://girorganic.com",
     "emails": [
@@ -15597,7 +15505,7 @@
     "quality_score": 8
   },
   {
-    "rank": 594,
+    "rank": 591,
     "store_name": "Hayagrivas Silk House",
     "domain_url": "https://hayagrivassilkhouse.com",
     "emails": [
@@ -15624,7 +15532,7 @@
     "quality_score": 8
   },
   {
-    "rank": 595,
+    "rank": 592,
     "store_name": "House Of Makeup",
     "domain_url": "https://houseofmakeup.com",
     "emails": [
@@ -15649,7 +15557,7 @@
     "quality_score": 8
   },
   {
-    "rank": 596,
+    "rank": 593,
     "store_name": "Man Mandir Silk and Saris",
     "domain_url": "https://manmandir.com",
     "emails": [
@@ -15675,7 +15583,7 @@
     "quality_score": 8
   },
   {
-    "rank": 597,
+    "rank": 594,
     "store_name": "Natriel",
     "domain_url": "https://natriel.com",
     "emails": [
@@ -15700,7 +15608,7 @@
     "quality_score": 8
   },
   {
-    "rank": 598,
+    "rank": 595,
     "store_name": "onesciencenutrition",
     "domain_url": "https://onesciencenutrition.in",
     "emails": [
@@ -15725,7 +15633,7 @@
     "quality_score": 8
   },
   {
-    "rank": 599,
+    "rank": 596,
     "store_name": "Sai Creations Watches",
     "domain_url": "https://saicreationswatches.com",
     "emails": [
@@ -15751,7 +15659,7 @@
     "quality_score": 8
   },
   {
-    "rank": 600,
+    "rank": 597,
     "store_name": "Stahl Kitchens",
     "domain_url": "https://stahlkitchens.com",
     "emails": [
@@ -15777,7 +15685,7 @@
     "quality_score": 8
   },
   {
-    "rank": 601,
+    "rank": 598,
     "store_name": "thebakingtools.com",
     "domain_url": "https://thebakingtools.com",
     "emails": [
@@ -15803,7 +15711,7 @@
     "quality_score": 8
   },
   {
-    "rank": 602,
+    "rank": 599,
     "store_name": "Urban Space Home Furnishing",
     "domain_url": "https://urbanspacestore.in",
     "emails": [
@@ -15829,7 +15737,7 @@
     "quality_score": 8
   },
   {
-    "rank": 603,
+    "rank": 600,
     "store_name": "SkinInspired",
     "domain_url": "https://skininspired.in",
     "emails": [
@@ -15855,7 +15763,7 @@
     "quality_score": 8
   },
   {
-    "rank": 604,
+    "rank": 601,
     "store_name": "Arihant Creations",
     "domain_url": "https://arihantcreations.co.in",
     "emails": [
@@ -15880,7 +15788,7 @@
     "quality_score": 8
   },
   {
-    "rank": 605,
+    "rank": 602,
     "store_name": "Barva Skin Therapie",
     "domain_url": "https://barvaskintherapie.com",
     "emails": [
@@ -15906,7 +15814,7 @@
     "quality_score": 8
   },
   {
-    "rank": 606,
+    "rank": 603,
     "store_name": "BLUORNG",
     "domain_url": "https://bluorng.com",
     "emails": [
@@ -15935,7 +15843,7 @@
     "quality_score": 8
   },
   {
-    "rank": 607,
+    "rank": 604,
     "store_name": "The Cinnamon Kitchen",
     "domain_url": "https://cinnamon.kitchen",
     "emails": [
@@ -15961,12 +15869,11 @@
     "quality_score": 8
   },
   {
-    "rank": 608,
+    "rank": 605,
     "store_name": "Forever New",
     "domain_url": "https://forevernew.co.in",
     "emails": [
       "wecare@forevernew.in",
-      "wecare@forevernew.in/",
       "benu.manchanda@forevernew.in"
     ],
     "phones": [
@@ -15989,7 +15896,7 @@
     "quality_score": 8
   },
   {
-    "rank": 609,
+    "rank": 606,
     "store_name": "Jagdish Farshan ",
     "domain_url": "https://jagdishfarshan.com",
     "emails": [
@@ -16016,7 +15923,7 @@
     "quality_score": 8
   },
   {
-    "rank": 610,
+    "rank": 607,
     "store_name": "One Friday",
     "domain_url": "https://onefridayworld.com",
     "emails": [
@@ -16041,7 +15948,7 @@
     "quality_score": 8
   },
   {
-    "rank": 611,
+    "rank": 608,
     "store_name": "SALT Attire",
     "domain_url": "https://saltattire.com",
     "emails": [
@@ -16068,7 +15975,7 @@
     "quality_score": 8
   },
   {
-    "rank": 612,
+    "rank": 609,
     "store_name": "Typsy Beauty",
     "domain_url": "https://typsybeauty.com",
     "emails": [
@@ -16094,7 +16001,7 @@
     "quality_score": 8
   },
   {
-    "rank": 613,
+    "rank": 610,
     "store_name": "Keya Seth Aromatherapy",
     "domain_url": "https://keyaseth.com",
     "emails": [
@@ -16122,7 +16029,7 @@
     "quality_score": 8
   },
   {
-    "rank": 614,
+    "rank": 611,
     "store_name": "CLARA",
     "domain_url": "https://clara.in",
     "emails": [
@@ -16148,7 +16055,7 @@
     "quality_score": 8
   },
   {
-    "rank": 615,
+    "rank": 612,
     "store_name": "Da Milano",
     "domain_url": "https://damilano.com",
     "emails": [
@@ -16174,7 +16081,7 @@
     "quality_score": 8
   },
   {
-    "rank": 616,
+    "rank": 613,
     "store_name": "Great Happy IN",
     "domain_url": "https://greathappy.in",
     "emails": [
@@ -16201,7 +16108,7 @@
     "quality_score": 8
   },
   {
-    "rank": 617,
+    "rank": 614,
     "store_name": "KitsGuru",
     "domain_url": "https://kitsguru.com",
     "emails": [
@@ -16227,7 +16134,7 @@
     "quality_score": 8
   },
   {
-    "rank": 618,
+    "rank": 615,
     "store_name": "Krishna Saree",
     "domain_url": "https://krishnasaree.in",
     "emails": [
@@ -16253,7 +16160,7 @@
     "quality_score": 8
   },
   {
-    "rank": 619,
+    "rank": 616,
     "store_name": "Sparkle and Glow",
     "domain_url": "https://sparkleandglow.co.in",
     "emails": [
@@ -16278,7 +16185,7 @@
     "quality_score": 8
   },
   {
-    "rank": 620,
+    "rank": 617,
     "store_name": "Prinjal Jewels",
     "domain_url": "https://prinjal.com",
     "emails": [
@@ -16303,7 +16210,7 @@
     "quality_score": 8
   },
   {
-    "rank": 621,
+    "rank": 618,
     "store_name": "TruNativ",
     "domain_url": "https://trunativ.co",
     "emails": [
@@ -16330,7 +16237,7 @@
     "quality_score": 8
   },
   {
-    "rank": 622,
+    "rank": 619,
     "store_name": "Balaji Wafers",
     "domain_url": "https://balajiwafers.com",
     "emails": [
@@ -16357,7 +16264,7 @@
     "quality_score": 8
   },
   {
-    "rank": 623,
+    "rank": 620,
     "store_name": "BKH Organics",
     "domain_url": "https://bkhorganics.in",
     "emails": [
@@ -16384,7 +16291,7 @@
     "quality_score": 8
   },
   {
-    "rank": 624,
+    "rank": 621,
     "store_name": "Janasya.com",
     "domain_url": "https://janasya.com",
     "emails": [
@@ -16411,7 +16318,7 @@
     "quality_score": 8
   },
   {
-    "rank": 625,
+    "rank": 622,
     "store_name": "Nutrabox India",
     "domain_url": "https://nutrabox.in",
     "emails": [
@@ -16438,7 +16345,7 @@
     "quality_score": 8
   },
   {
-    "rank": 626,
+    "rank": 623,
     "store_name": "Simply Nam",
     "domain_url": "https://simplynam.com",
     "emails": [
@@ -16464,7 +16371,7 @@
     "quality_score": 8
   },
   {
-    "rank": 627,
+    "rank": 624,
     "store_name": "SkilloToys",
     "domain_url": "https://skillotoys.com",
     "emails": [
@@ -16489,7 +16396,7 @@
     "quality_score": 8
   },
   {
-    "rank": 628,
+    "rank": 625,
     "store_name": "Skin Bae",
     "domain_url": "https://skinbae.in",
     "emails": [
@@ -16514,7 +16421,7 @@
     "quality_score": 8
   },
   {
-    "rank": 629,
+    "rank": 626,
     "store_name": "Sotrue",
     "domain_url": "https://sotrue.in",
     "emails": [
@@ -16539,7 +16446,7 @@
     "quality_score": 8
   },
   {
-    "rank": 630,
+    "rank": 627,
     "store_name": "SriVaraha Foods",
     "domain_url": "https://srivarahafoods.com",
     "emails": [
@@ -16567,7 +16474,7 @@
     "quality_score": 8
   },
   {
-    "rank": 631,
+    "rank": 628,
     "store_name": "Sugandh Lok",
     "domain_url": "https://sugandhlok.com",
     "emails": [
@@ -16592,7 +16499,7 @@
     "quality_score": 8
   },
   {
-    "rank": 632,
+    "rank": 629,
     "store_name": "The Knot Company",
     "domain_url": "https://theknotcompany.in",
     "emails": [
@@ -16618,7 +16525,7 @@
     "quality_score": 8
   },
   {
-    "rank": 633,
+    "rank": 630,
     "store_name": "URturms",
     "domain_url": "https://urturms.com",
     "emails": [
@@ -16643,7 +16550,7 @@
     "quality_score": 8
   },
   {
-    "rank": 634,
+    "rank": 631,
     "store_name": "Paradyes",
     "domain_url": "https://birdsofparadyes.com",
     "emails": [
@@ -16668,7 +16575,7 @@
     "quality_score": 8
   },
   {
-    "rank": 635,
+    "rank": 632,
     "store_name": "Beauty Garage",
     "domain_url": "https://beautygarage.com",
     "emails": [
@@ -16695,7 +16602,7 @@
     "quality_score": 8
   },
   {
-    "rank": 636,
+    "rank": 633,
     "store_name": "House Of Masaba",
     "domain_url": "https://houseofmasaba.com",
     "emails": [
@@ -16722,7 +16629,7 @@
     "quality_score": 8
   },
   {
-    "rank": 637,
+    "rank": 634,
     "store_name": "IndyGood",
     "domain_url": "https://indygood.com",
     "emails": [
@@ -16748,7 +16655,7 @@
     "quality_score": 8
   },
   {
-    "rank": 638,
+    "rank": 635,
     "store_name": "Pachaiyappas silks",
     "domain_url": "https://pachaiyappas.in",
     "emails": [
@@ -16776,7 +16683,7 @@
     "quality_score": 8
   },
   {
-    "rank": 639,
+    "rank": 636,
     "store_name": "Pure Nutrition",
     "domain_url": "https://purenutrition.in",
     "emails": [
@@ -16804,7 +16711,7 @@
     "quality_score": 8
   },
   {
-    "rank": 640,
+    "rank": 637,
     "store_name": "RAS Luxury Skincare",
     "domain_url": "https://rasluxuryoils.com",
     "emails": [
@@ -16830,7 +16737,7 @@
     "quality_score": 8
   },
   {
-    "rank": 641,
+    "rank": 638,
     "store_name": "Spigen India",
     "domain_url": "https://spigen.in",
     "emails": [
@@ -16857,7 +16764,7 @@
     "quality_score": 8
   },
   {
-    "rank": 642,
+    "rank": 639,
     "store_name": "Spykar Lifestyles",
     "domain_url": "https://spykar.com",
     "emails": [
@@ -16882,7 +16789,7 @@
     "quality_score": 8
   },
   {
-    "rank": 643,
+    "rank": 640,
     "store_name": "Tanotis",
     "domain_url": "https://tanotis.com",
     "emails": [
@@ -16910,7 +16817,7 @@
     "quality_score": 8
   },
   {
-    "rank": 644,
+    "rank": 641,
     "store_name": "Cantabil",
     "domain_url": "https://cantabilshop.com",
     "emails": [
@@ -16935,7 +16842,7 @@
     "quality_score": 8
   },
   {
-    "rank": 645,
+    "rank": 642,
     "store_name": "Duke",
     "domain_url": "https://dukeindia.com",
     "emails": [
@@ -16961,7 +16868,7 @@
     "quality_score": 8
   },
   {
-    "rank": 646,
+    "rank": 643,
     "store_name": "Muffynn",
     "domain_url": "https://muffynn.com",
     "emails": [
@@ -16989,7 +16896,7 @@
     "quality_score": 8
   },
   {
-    "rank": 647,
+    "rank": 644,
     "store_name": "Sprig",
     "domain_url": "https://sprig.store",
     "emails": [
@@ -17014,7 +16921,7 @@
     "quality_score": 8
   },
   {
-    "rank": 648,
+    "rank": 645,
     "store_name": "KKGROUPS",
     "domain_url": "https://thekkgroups.in",
     "emails": [
@@ -17042,7 +16949,7 @@
     "quality_score": 8
   },
   {
-    "rank": 649,
+    "rank": 646,
     "store_name": "YourLibaas",
     "domain_url": "https://yourlibaas.com",
     "emails": [
@@ -17067,7 +16974,7 @@
     "quality_score": 8
   },
   {
-    "rank": 650,
+    "rank": 647,
     "store_name": "HMR Handlooms",
     "domain_url": "https://hmrhandlooms.com",
     "emails": [
@@ -17095,7 +17002,7 @@
     "quality_score": 8
   },
   {
-    "rank": 651,
+    "rank": 648,
     "store_name": "House of Raadhvi",
     "domain_url": "https://houseofraadhvi.com",
     "emails": [
@@ -17121,7 +17028,7 @@
     "quality_score": 8
   },
   {
-    "rank": 652,
+    "rank": 649,
     "store_name": "LoveChild",
     "domain_url": "https://lovechild.in",
     "emails": [
@@ -17150,7 +17057,7 @@
     "quality_score": 8
   },
   {
-    "rank": 653,
+    "rank": 650,
     "store_name": "Moto Central",
     "domain_url": "https://motocentral.in",
     "emails": [
@@ -17175,7 +17082,7 @@
     "quality_score": 8
   },
   {
-    "rank": 654,
+    "rank": 651,
     "store_name": "Atomic Pharmacy",
     "domain_url": "https://atomicpharmacy.in",
     "emails": [
@@ -17200,7 +17107,7 @@
     "quality_score": 8
   },
   {
-    "rank": 655,
+    "rank": 652,
     "store_name": "Bowlful Foods ",
     "domain_url": "https://bowlfulstore.com",
     "emails": [
@@ -17227,7 +17134,7 @@
     "quality_score": 8
   },
   {
-    "rank": 656,
+    "rank": 653,
     "store_name": "GetMyMettle",
     "domain_url": "https://getmymettle.com",
     "emails": [
@@ -17252,7 +17159,7 @@
     "quality_score": 8
   },
   {
-    "rank": 657,
+    "rank": 654,
     "store_name": "PUREUS",
     "domain_url": "https://pureus.in",
     "emails": [
@@ -17279,7 +17186,7 @@
     "quality_score": 8
   },
   {
-    "rank": 658,
+    "rank": 655,
     "store_name": "SLVSALES",
     "domain_url": "https://slvsales.in",
     "emails": [
@@ -17305,7 +17212,7 @@
     "quality_score": 8
   },
   {
-    "rank": 659,
+    "rank": 656,
     "store_name": "Motovolt Mobility Pvt. Ltd.",
     "domain_url": "https://motovolt.co",
     "emails": [
@@ -17332,7 +17239,7 @@
     "quality_score": 8
   },
   {
-    "rank": 660,
+    "rank": 657,
     "store_name": "Fully Filmy",
     "domain_url": "https://fullyfilmy.in",
     "emails": [
@@ -17357,7 +17264,7 @@
     "quality_score": 8
   },
   {
-    "rank": 661,
+    "rank": 658,
     "store_name": "IFFCO Urban Gardens",
     "domain_url": "https://iffcourbangardens.com",
     "emails": [
@@ -17386,7 +17293,7 @@
     "quality_score": 8
   },
   {
-    "rank": 662,
+    "rank": 659,
     "store_name": "Mlada",
     "domain_url": "https://mlada.in",
     "emails": [
@@ -17411,7 +17318,7 @@
     "quality_score": 8
   },
   {
-    "rank": 663,
+    "rank": 660,
     "store_name": "The Prink",
     "domain_url": "https://theprink.in",
     "emails": [
@@ -17436,7 +17343,7 @@
     "quality_score": 8
   },
   {
-    "rank": 664,
+    "rank": 661,
     "store_name": "BhatnBhat",
     "domain_url": "https://bhatnbhat.in",
     "emails": [
@@ -17462,7 +17369,7 @@
     "quality_score": 8
   },
   {
-    "rank": 665,
+    "rank": 662,
     "store_name": "Cheesewalk",
     "domain_url": "https://cheesewalk.co",
     "emails": [
@@ -17487,7 +17394,7 @@
     "quality_score": 8
   },
   {
-    "rank": 666,
+    "rank": 663,
     "store_name": "Kenstar",
     "domain_url": "https://kenstar.in",
     "emails": [
@@ -17514,7 +17421,7 @@
     "quality_score": 8
   },
   {
-    "rank": 667,
+    "rank": 664,
     "store_name": "Pee Safe",
     "domain_url": "https://peesafe.com",
     "emails": [
@@ -17542,7 +17449,7 @@
     "quality_score": 8
   },
   {
-    "rank": 668,
+    "rank": 665,
     "store_name": "Bangalore Watch Company™",
     "domain_url": "https://bangalorewatchco.in",
     "emails": [
@@ -17569,7 +17476,7 @@
     "quality_score": 8
   },
   {
-    "rank": 669,
+    "rank": 666,
     "store_name": "Bal Gopal Collection",
     "domain_url": "https://balgopalcollection.com",
     "emails": [
@@ -17595,7 +17502,7 @@
     "quality_score": 8
   },
   {
-    "rank": 670,
+    "rank": 667,
     "store_name": "Soulflower.in",
     "domain_url": "https://soulflower.in",
     "emails": [
@@ -17623,7 +17530,7 @@
     "quality_score": 8
   },
   {
-    "rank": 671,
+    "rank": 668,
     "store_name": "WELLBI",
     "domain_url": "https://wellbi.in",
     "emails": [
@@ -17648,7 +17555,7 @@
     "quality_score": 8
   },
   {
-    "rank": 672,
+    "rank": 669,
     "store_name": "CASEGEAR",
     "domain_url": "https://casegear.in",
     "emails": [
@@ -17675,7 +17582,7 @@
     "quality_score": 8
   },
   {
-    "rank": 673,
+    "rank": 670,
     "store_name": "Jaiman Toys",
     "domain_url": "https://jaimantoys.com",
     "emails": [
@@ -17701,7 +17608,7 @@
     "quality_score": 8
   },
   {
-    "rank": 674,
+    "rank": 671,
     "store_name": "WoodenTwist",
     "domain_url": "https://woodentwist.com",
     "emails": [
@@ -17727,7 +17634,7 @@
     "quality_score": 8
   },
   {
-    "rank": 675,
+    "rank": 672,
     "store_name": "amiciKart",
     "domain_url": "https://amicikart.com",
     "emails": [
@@ -17753,7 +17660,7 @@
     "quality_score": 8
   },
   {
-    "rank": 676,
+    "rank": 673,
     "store_name": "Divisa Store",
     "domain_url": "https://divisastore.com",
     "emails": [
@@ -17779,7 +17686,7 @@
     "quality_score": 8
   },
   {
-    "rank": 677,
+    "rank": 674,
     "store_name": "Hashtag Eyewears",
     "domain_url": "https://hashtageyewears.com",
     "emails": [
@@ -17806,7 +17713,7 @@
     "quality_score": 8
   },
   {
-    "rank": 678,
+    "rank": 675,
     "store_name": "The Audio Co.",
     "domain_url": "https://theaudio.co",
     "emails": [
@@ -17831,7 +17738,7 @@
     "quality_score": 8
   },
   {
-    "rank": 679,
+    "rank": 676,
     "store_name": "Involve Your Senses",
     "domain_url": "https://involveyoursenses.com",
     "emails": [
@@ -17859,7 +17766,7 @@
     "quality_score": 8
   },
   {
-    "rank": 680,
+    "rank": 677,
     "store_name": "Onyx Aqua Farm",
     "domain_url": "https://onyxaqua.com",
     "emails": [
@@ -17886,7 +17793,7 @@
     "quality_score": 8
   },
   {
-    "rank": 681,
+    "rank": 678,
     "store_name": "Three Sixty Leather",
     "domain_url": "https://threesixty.life",
     "emails": [
@@ -17915,7 +17822,7 @@
     "quality_score": 8
   },
   {
-    "rank": 682,
+    "rank": 679,
     "store_name": "Uni Seoul",
     "domain_url": "https://uniseoul.in",
     "emails": [
@@ -17940,7 +17847,7 @@
     "quality_score": 8
   },
   {
-    "rank": 683,
+    "rank": 680,
     "store_name": "JPT Tools",
     "domain_url": "https://jpttools.com",
     "emails": [
@@ -17965,7 +17872,7 @@
     "quality_score": 8
   },
   {
-    "rank": 684,
+    "rank": 681,
     "store_name": "Hasthip",
     "domain_url": "https://hasthip.com",
     "emails": [
@@ -17991,7 +17898,7 @@
     "quality_score": 8
   },
   {
-    "rank": 685,
+    "rank": 682,
     "store_name": "The 1970 Store",
     "domain_url": "https://1970store.com",
     "emails": [
@@ -18016,7 +17923,7 @@
     "quality_score": 8
   },
   {
-    "rank": 686,
+    "rank": 683,
     "store_name": "Adi Akshoy & Co.",
     "domain_url": "https://adiakshoy.com",
     "emails": [
@@ -18043,7 +17950,7 @@
     "quality_score": 8
   },
   {
-    "rank": 687,
+    "rank": 684,
     "store_name": "Amaltaas",
     "domain_url": "https://amaltaas.com",
     "emails": [
@@ -18068,7 +17975,7 @@
     "quality_score": 8
   },
   {
-    "rank": 688,
+    "rank": 685,
     "store_name": "bugatti Shoes India",
     "domain_url": "https://bugattishoes.in",
     "emails": [
@@ -18095,7 +18002,7 @@
     "quality_score": 8
   },
   {
-    "rank": 689,
+    "rank": 686,
     "store_name": "Earthly Jewels",
     "domain_url": "https://earthlyjewels.co",
     "emails": [
@@ -18121,7 +18028,7 @@
     "quality_score": 8
   },
   {
-    "rank": 690,
+    "rank": 687,
     "store_name": "Fabunora",
     "domain_url": "https://fabunora.com",
     "emails": [
@@ -18146,7 +18053,7 @@
     "quality_score": 8
   },
   {
-    "rank": 691,
+    "rank": 688,
     "store_name": "FNS International Limited",
     "domain_url": "https://fns.co.in",
     "emails": [
@@ -18174,7 +18081,7 @@
     "quality_score": 8
   },
   {
-    "rank": 692,
+    "rank": 689,
     "store_name": "The Heels India",
     "domain_url": "https://heelsindia.com",
     "emails": [
@@ -18201,7 +18108,7 @@
     "quality_score": 8
   },
   {
-    "rank": 693,
+    "rank": 690,
     "store_name": "houseofpanchhi",
     "domain_url": "https://houseofpanchhi.com",
     "emails": [
@@ -18229,7 +18136,7 @@
     "quality_score": 8
   },
   {
-    "rank": 694,
+    "rank": 691,
     "store_name": "Aflairza",
     "domain_url": "https://aflairza.com",
     "emails": [
@@ -18254,7 +18161,7 @@
     "quality_score": 8
   },
   {
-    "rank": 695,
+    "rank": 692,
     "store_name": "Amrah Wholesale",
     "domain_url": "https://amrahwholesale.com",
     "emails": [
@@ -18279,7 +18186,7 @@
     "quality_score": 8
   },
   {
-    "rank": 696,
+    "rank": 693,
     "store_name": "BooksTech",
     "domain_url": "https://bookstech.in",
     "emails": [
@@ -18306,7 +18213,7 @@
     "quality_score": 8
   },
   {
-    "rank": 697,
+    "rank": 694,
     "store_name": "Caia",
     "domain_url": "https://caialifestylejewellery.com",
     "emails": [
@@ -18332,7 +18239,7 @@
     "quality_score": 8
   },
   {
-    "rank": 698,
+    "rank": 695,
     "store_name": "ChhajedGarden.com",
     "domain_url": "https://chhajedgarden.com",
     "emails": [
@@ -18358,7 +18265,7 @@
     "quality_score": 8
   },
   {
-    "rank": 699,
+    "rank": 696,
     "store_name": "Chinaya Banaras",
     "domain_url": "https://chinayabanaras.com",
     "emails": [
@@ -18383,7 +18290,7 @@
     "quality_score": 8
   },
   {
-    "rank": 700,
+    "rank": 697,
     "store_name": "F A R A K",
     "domain_url": "https://farak.co",
     "emails": [
@@ -18413,7 +18320,7 @@
     "quality_score": 8
   },
   {
-    "rank": 701,
+    "rank": 698,
     "store_name": "BlackZone",
     "domain_url": "https://blackzone.in",
     "emails": [
@@ -18440,7 +18347,7 @@
     "quality_score": 8
   },
   {
-    "rank": 702,
+    "rank": 699,
     "store_name": "Chatterbox Labels",
     "domain_url": "https://chatterboxlabels.com",
     "emails": [
@@ -18466,7 +18373,7 @@
     "quality_score": 8
   },
   {
-    "rank": 703,
+    "rank": 700,
     "store_name": "Ergonstyle",
     "domain_url": "https://ergonstyle.com",
     "emails": [
@@ -18491,7 +18398,7 @@
     "quality_score": 8
   },
   {
-    "rank": 704,
+    "rank": 701,
     "store_name": "Glamwiz India",
     "domain_url": "https://glamwiz.com",
     "emails": [
@@ -18519,7 +18426,7 @@
     "quality_score": 8
   },
   {
-    "rank": 705,
+    "rank": 702,
     "store_name": "HAZEL Kitchenware",
     "domain_url": "https://hazelkitchenware.com",
     "emails": [
@@ -18545,7 +18452,7 @@
     "quality_score": 8
   },
   {
-    "rank": 706,
+    "rank": 703,
     "store_name": "Aegte Lifescience",
     "domain_url": "https://aegte.in",
     "emails": [
@@ -18572,7 +18479,7 @@
     "quality_score": 8
   },
   {
-    "rank": 707,
+    "rank": 704,
     "store_name": "Anuvas",
     "domain_url": "https://anuvas.com",
     "emails": [
@@ -18597,11 +18504,10 @@
     "quality_score": 8
   },
   {
-    "rank": 708,
+    "rank": 705,
     "store_name": "Bow & Square",
     "domain_url": "https://bowandsquare.com",
     "emails": [
-      "%20care@bowandsquare.com",
       "care@bowandsquare.com"
     ],
     "phones": [
@@ -18623,7 +18529,7 @@
     "quality_score": 8
   },
   {
-    "rank": 709,
+    "rank": 706,
     "store_name": "Chikankaar",
     "domain_url": "https://chikankaar.com",
     "emails": [
@@ -18649,7 +18555,7 @@
     "quality_score": 8
   },
   {
-    "rank": 710,
+    "rank": 707,
     "store_name": "House of Quadri",
     "domain_url": "https://houseofquadri.com",
     "emails": [
@@ -18676,7 +18582,7 @@
     "quality_score": 8
   },
   {
-    "rank": 711,
+    "rank": 708,
     "store_name": "Gud Gum | Planet-Friendly Chewing Gum ",
     "domain_url": "https://gudgum.in",
     "emails": [
@@ -18703,7 +18609,7 @@
     "quality_score": 8
   },
   {
-    "rank": 712,
+    "rank": 709,
     "store_name": "Cricketershop",
     "domain_url": "https://cricketershop.com",
     "emails": [
@@ -18728,7 +18634,7 @@
     "quality_score": 8
   },
   {
-    "rank": 713,
+    "rank": 710,
     "store_name": "Hungry Koala",
     "domain_url": "https://hungrykoala.in",
     "emails": [
@@ -18754,7 +18660,7 @@
     "quality_score": 8
   },
   {
-    "rank": 714,
+    "rank": 711,
     "store_name": "Cottons Jaipur",
     "domain_url": "https://cottonsjaipur.com",
     "emails": [
@@ -18781,7 +18687,7 @@
     "quality_score": 8
   },
   {
-    "rank": 715,
+    "rank": 712,
     "store_name": "Crunchy Fashion",
     "domain_url": "https://crunchyfashion.com",
     "emails": [
@@ -18806,7 +18712,7 @@
     "quality_score": 8
   },
   {
-    "rank": 716,
+    "rank": 713,
     "store_name": "Bodycare International Limited",
     "domain_url": "https://bodycareapparels.com",
     "emails": [
@@ -18831,7 +18737,7 @@
     "quality_score": 8
   },
   {
-    "rank": 717,
+    "rank": 714,
     "store_name": "Colors of Earth",
     "domain_url": "https://colorsofearth.in",
     "emails": [
@@ -18857,7 +18763,7 @@
     "quality_score": 8
   },
   {
-    "rank": 718,
+    "rank": 715,
     "store_name": "House Of Machines",
     "domain_url": "https://houseofmachines.in",
     "emails": [
@@ -18884,7 +18790,7 @@
     "quality_score": 8
   },
   {
-    "rank": 719,
+    "rank": 716,
     "store_name": "HaveIn",
     "domain_url": "https://havein.in",
     "emails": [
@@ -18910,7 +18816,7 @@
     "quality_score": 8
   },
   {
-    "rank": 720,
+    "rank": 717,
     "store_name": "Ayaz Perfumes",
     "domain_url": "https://ayazperfume.com",
     "emails": [
@@ -18935,7 +18841,7 @@
     "quality_score": 8
   },
   {
-    "rank": 721,
+    "rank": 718,
     "store_name": "Denzour Nutrition ",
     "domain_url": "https://denzournutrition.com",
     "emails": [
@@ -18962,7 +18868,7 @@
     "quality_score": 8
   },
   {
-    "rank": 722,
+    "rank": 719,
     "store_name": "Eduspark Toys",
     "domain_url": "https://edusparktoys.com",
     "emails": [
@@ -18991,7 +18897,7 @@
     "quality_score": 8
   },
   {
-    "rank": 723,
+    "rank": 720,
     "store_name": "GN 1917",
     "domain_url": "https://gn1917.com",
     "emails": [
@@ -19018,7 +18924,7 @@
     "quality_score": 8
   },
   {
-    "rank": 724,
+    "rank": 721,
     "store_name": "Aziot",
     "domain_url": "https://aziot.life",
     "emails": [
@@ -19045,7 +18951,7 @@
     "quality_score": 8
   },
   {
-    "rank": 725,
+    "rank": 722,
     "store_name": "Eridani",
     "domain_url": "https://eridani.in",
     "emails": [
@@ -19070,7 +18976,7 @@
     "quality_score": 8
   },
   {
-    "rank": 726,
+    "rank": 723,
     "store_name": "Blooming Floret",
     "domain_url": "https://bloomingfloret.in",
     "emails": [
@@ -19095,7 +19001,7 @@
     "quality_score": 8
   },
   {
-    "rank": 727,
+    "rank": 724,
     "store_name": "7DaysNatural",
     "domain_url": "https://7daysnatural.in",
     "emails": [
@@ -19120,7 +19026,7 @@
     "quality_score": 8
   },
   {
-    "rank": 728,
+    "rank": 725,
     "store_name": "AIMIL",
     "domain_url": "https://aimilpharma.life",
     "emails": [
@@ -19145,7 +19051,7 @@
     "quality_score": 8
   },
   {
-    "rank": 729,
+    "rank": 726,
     "store_name": "BuyTestSeries.in",
     "domain_url": "https://buytestseries.in",
     "emails": [
@@ -19173,7 +19079,7 @@
     "quality_score": 8
   },
   {
-    "rank": 730,
+    "rank": 727,
     "store_name": "Adorn Silver",
     "domain_url": "https://adornsilver.co",
     "emails": [
@@ -19200,7 +19106,7 @@
     "quality_score": 8
   },
   {
-    "rank": 731,
+    "rank": 728,
     "store_name": "Anaya Designer Studio",
     "domain_url": "https://anayadesignerstudio.com",
     "emails": [
@@ -19225,7 +19131,7 @@
     "quality_score": 8
   },
   {
-    "rank": 732,
+    "rank": 729,
     "store_name": "Angel & Rocket",
     "domain_url": "https://angelandrocket.in",
     "emails": [
@@ -19250,7 +19156,7 @@
     "quality_score": 8
   },
   {
-    "rank": 733,
+    "rank": 730,
     "store_name": "Crimzon",
     "domain_url": "https://crimzonworld.com",
     "emails": [
@@ -19278,7 +19184,7 @@
     "quality_score": 8
   },
   {
-    "rank": 734,
+    "rank": 731,
     "store_name": "Global Republic",
     "domain_url": "https://globalrepublic.in",
     "emails": [
@@ -19304,7 +19210,7 @@
     "quality_score": 8
   },
   {
-    "rank": 735,
+    "rank": 732,
     "store_name": "Origin Nutrition",
     "domain_url": "https://originnutrition.in",
     "emails": [
@@ -19331,7 +19237,7 @@
     "quality_score": 8
   },
   {
-    "rank": 736,
+    "rank": 733,
     "store_name": "CELGEN biotech",
     "domain_url": "https://celgenbiotech.com",
     "emails": [
@@ -19358,7 +19264,7 @@
     "quality_score": 8
   },
   {
-    "rank": 737,
+    "rank": 734,
     "store_name": "COLORBAR COSMETICS PRIVATE LIMITED",
     "domain_url": "https://colorbarcosmetics.com",
     "emails": [
@@ -19387,7 +19293,7 @@
     "quality_score": 8
   },
   {
-    "rank": 738,
+    "rank": 735,
     "store_name": "Androidfixcell.com",
     "domain_url": "https://androidfixcell.com",
     "emails": [
@@ -19416,7 +19322,7 @@
     "quality_score": 8
   },
   {
-    "rank": 739,
+    "rank": 736,
     "store_name": "Ecentric",
     "domain_url": "https://ecentric.in",
     "emails": [
@@ -19441,33 +19347,7 @@
     "quality_score": 8
   },
   {
-    "rank": 740,
-    "store_name": "Happilo",
-    "domain_url": "https://happilo.com",
-    "emails": [
-      "care@happilo.com",
-      "mailsupport@gmail.com"
-    ],
-    "phones": [
-      "+918884484000"
-    ],
-    "instagram": "https://www.instagram.com/happiloindia",
-    "facebook": "https://www.facebook.com/happiloonlinestore",
-    "twitter": "",
-    "linkedin": "https://in.linkedin.com/company/happilo-international-pvt-ltd",
-    "youtube": "https://www.youtube.com/@HappiloIndia",
-    "category": "Food & Beverages",
-    "tagline": "Choose among the wide range of premium dry fruits, nuts, seeds, dried fruits, Berries, and trail mixes online in India. Shop from India's best dry fruit brand!",
-    "tagline_source": "meta_json",
-    "logo_url": "https://happilo.com/cdn/shop/files/Happilo_Logo_1_3.png?v=1778046360&width=600",
-    "state": "Karnataka",
-    "city": "Bengaluru",
-    "gstin": "",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Karnataka; +91 phone on site",
-    "quality_score": 8
-  },
-  {
-    "rank": 741,
+    "rank": 737,
     "store_name": "Herolectro Store",
     "domain_url": "https://herolectro.com",
     "emails": [
@@ -19493,7 +19373,7 @@
     "quality_score": 8
   },
   {
-    "rank": 742,
+    "rank": 738,
     "store_name": "Bambino Pasta ",
     "domain_url": "https://bambinopasta.in",
     "emails": [
@@ -19519,7 +19399,7 @@
     "quality_score": 8
   },
   {
-    "rank": 743,
+    "rank": 739,
     "store_name": "BODD ACTIVE",
     "domain_url": "https://boddactive.com",
     "emails": [
@@ -19546,7 +19426,7 @@
     "quality_score": 8
   },
   {
-    "rank": 744,
+    "rank": 740,
     "store_name": "Cothas Coffee Co.",
     "domain_url": "https://cothas.com",
     "emails": [
@@ -19571,7 +19451,7 @@
     "quality_score": 8
   },
   {
-    "rank": 745,
+    "rank": 741,
     "store_name": "Egate World ",
     "domain_url": "https://egate-world.com",
     "emails": [
@@ -19601,7 +19481,7 @@
     "quality_score": 8
   },
   {
-    "rank": 746,
+    "rank": 742,
     "store_name": "Estaa Sweets",
     "domain_url": "https://estaasweets.com",
     "emails": [
@@ -19628,7 +19508,7 @@
     "quality_score": 8
   },
   {
-    "rank": 747,
+    "rank": 743,
     "store_name": "Case24x7.com",
     "domain_url": "https://case24x7.com",
     "emails": [
@@ -19653,7 +19533,7 @@
     "quality_score": 8
   },
   {
-    "rank": 748,
+    "rank": 744,
     "store_name": "Astroscience",
     "domain_url": "https://astroscience.com",
     "emails": [
@@ -19680,7 +19560,7 @@
     "quality_score": 8
   },
   {
-    "rank": 749,
+    "rank": 745,
     "store_name": "BLIX EDUCATION PRIVATE LIMITED",
     "domain_url": "https://blix.in",
     "emails": [
@@ -19707,7 +19587,7 @@
     "quality_score": 8
   },
   {
-    "rank": 750,
+    "rank": 746,
     "store_name": "HankPets | HANK",
     "domain_url": "https://hankpets.com",
     "emails": [
@@ -19732,7 +19612,7 @@
     "quality_score": 8
   },
   {
-    "rank": 751,
+    "rank": 747,
     "store_name": "House of Ekam",
     "domain_url": "https://houseofekam.com",
     "emails": [
@@ -19757,7 +19637,7 @@
     "quality_score": 8
   },
   {
-    "rank": 752,
+    "rank": 748,
     "store_name": "Charak",
     "domain_url": "https://charak.com",
     "emails": [
@@ -19786,7 +19666,7 @@
     "quality_score": 8
   },
   {
-    "rank": 753,
+    "rank": 749,
     "store_name": "Agromech",
     "domain_url": "https://agromech.com",
     "emails": [
@@ -19812,7 +19692,7 @@
     "quality_score": 8
   },
   {
-    "rank": 754,
+    "rank": 750,
     "store_name": "Buy Khari Baoli",
     "domain_url": "https://buykharibaoli.com",
     "emails": [
@@ -19838,7 +19718,7 @@
     "quality_score": 8
   },
   {
-    "rank": 755,
+    "rank": 751,
     "store_name": "Barks & Wags",
     "domain_url": "https://barksandwags.in",
     "emails": [
@@ -19863,7 +19743,7 @@
     "quality_score": 8
   },
   {
-    "rank": 756,
+    "rank": 752,
     "store_name": "BJAIN BOOKS LLP",
     "domain_url": "https://bjainbooks.com",
     "emails": [
@@ -19889,7 +19769,7 @@
     "quality_score": 8
   },
   {
-    "rank": 757,
+    "rank": 753,
     "store_name": "Givea",
     "domain_url": "https://givea.in",
     "emails": [
@@ -19914,7 +19794,7 @@
     "quality_score": 8
   },
   {
-    "rank": 758,
+    "rank": 754,
     "store_name": "Hair Drama Company",
     "domain_url": "https://hairdramacompany.com",
     "emails": [
@@ -19939,7 +19819,7 @@
     "quality_score": 8
   },
   {
-    "rank": 759,
+    "rank": 755,
     "store_name": "MIRAGGIO",
     "domain_url": "https://miraggiolife.com",
     "emails": [
@@ -19965,11 +19845,10 @@
     "quality_score": 7
   },
   {
-    "rank": 760,
+    "rank": 756,
     "store_name": "Jewelsmars",
     "domain_url": "https://jewelsmars.com",
     "emails": [
-      "wecare@jewelsmars.com@gmail.com",
       "wecare@jewelsmars.com",
       "care.jewelsmars@gmail.com"
     ],
@@ -19992,7 +19871,7 @@
     "quality_score": 7
   },
   {
-    "rank": 761,
+    "rank": 757,
     "store_name": "DERMATOUCH",
     "domain_url": "https://dermatouch.com",
     "emails": [
@@ -20017,7 +19896,7 @@
     "quality_score": 7
   },
   {
-    "rank": 762,
+    "rank": 758,
     "store_name": "Levis India Store",
     "domain_url": "https://levi.in",
     "emails": [
@@ -20044,7 +19923,7 @@
     "quality_score": 7
   },
   {
-    "rank": 763,
+    "rank": 759,
     "store_name": "Emma Sleep India",
     "domain_url": "https://emma-sleep.in",
     "emails": [
@@ -20073,7 +19952,7 @@
     "quality_score": 7
   },
   {
-    "rank": 764,
+    "rank": 760,
     "store_name": "HYPHEN",
     "domain_url": "https://letshyphen.com",
     "emails": [
@@ -20098,32 +19977,7 @@
     "quality_score": 7
   },
   {
-    "rank": 765,
-    "store_name": "Dr Sheth's",
-    "domain_url": "https://drsheths.com",
-    "emails": [
-      "support@drsheths.com"
-    ],
-    "phones": [
-      "+914550453232"
-    ],
-    "instagram": "https://www.instagram.com/drsheths",
-    "facebook": "https://www.facebook.com/drsheths",
-    "twitter": "",
-    "linkedin": "",
-    "youtube": "https://www.youtube.com/@dr.sheths3011",
-    "category": "Beauty & Personal Care",
-    "tagline": "Shop Dr Sheth's skincare and get 2 products at ₹699 with code BUY2. Explore dermatologist-formulated skincare for Indian skin and find your everyday essentials.",
-    "tagline_source": "meta_json",
-    "logo_url": "https://www.drsheths.com/cdn/shop/files/width-1000px.png?v=1690449385&width=500",
-    "state": "Haryana",
-    "city": "Gurgaon",
-    "gstin": "",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Haryana; +91 phone on site",
-    "quality_score": 7
-  },
-  {
-    "rank": 766,
+    "rank": 761,
     "store_name": "Japam",
     "domain_url": "https://japam.in",
     "emails": [
@@ -20148,7 +20002,7 @@
     "quality_score": 7
   },
   {
-    "rank": 767,
+    "rank": 762,
     "store_name": "The Sleep Company",
     "domain_url": "https://thesleepcompany.in",
     "emails": [
@@ -20174,7 +20028,7 @@
     "quality_score": 7
   },
   {
-    "rank": 768,
+    "rank": 763,
     "store_name": "WishCare",
     "domain_url": "https://mywishcare.com",
     "emails": [
@@ -20199,7 +20053,7 @@
     "quality_score": 7
   },
   {
-    "rank": 769,
+    "rank": 764,
     "store_name": "Home Essentials",
     "domain_url": "https://homeessentials.in",
     "emails": [
@@ -20227,7 +20081,7 @@
     "quality_score": 7
   },
   {
-    "rank": 770,
+    "rank": 765,
     "store_name": "Go Blunt",
     "domain_url": "https://goblunt.com",
     "emails": [
@@ -20253,7 +20107,7 @@
     "quality_score": 7
   },
   {
-    "rank": 771,
+    "rank": 766,
     "store_name": "Liberty Shoes",
     "domain_url": "https://libertyshoesonline.com",
     "emails": [
@@ -20283,7 +20137,7 @@
     "quality_score": 7
   },
   {
-    "rank": 772,
+    "rank": 767,
     "store_name": "P. N. Gadgil & Sons Ltd",
     "domain_url": "https://onlinepng.com",
     "emails": [
@@ -20308,7 +20162,7 @@
     "quality_score": 7
   },
   {
-    "rank": 773,
+    "rank": 768,
     "store_name": "Superkicks",
     "domain_url": "https://superkicks.in",
     "emails": [
@@ -20336,7 +20190,7 @@
     "quality_score": 7
   },
   {
-    "rank": 774,
+    "rank": 769,
     "store_name": "Swashaa",
     "domain_url": "https://swashaa.com",
     "emails": [
@@ -20362,7 +20216,7 @@
     "quality_score": 7
   },
   {
-    "rank": 775,
+    "rank": 770,
     "store_name": "INC.5 SHOES PVT LTD ",
     "domain_url": "https://inc5shop.com",
     "emails": [
@@ -20387,7 +20241,7 @@
     "quality_score": 7
   },
   {
-    "rank": 776,
+    "rank": 771,
     "store_name": "WHAT THE FLEX",
     "domain_url": "https://wtflex.in",
     "emails": [
@@ -20413,7 +20267,7 @@
     "quality_score": 7
   },
   {
-    "rank": 777,
+    "rank": 772,
     "store_name": "Hamercop",
     "domain_url": "https://hamercop.com",
     "emails": [
@@ -20438,7 +20292,7 @@
     "quality_score": 7
   },
   {
-    "rank": 778,
+    "rank": 773,
     "store_name": "Joy Personal Care",
     "domain_url": "https://joypersonalcare.com",
     "emails": [
@@ -20463,7 +20317,7 @@
     "quality_score": 7
   },
   {
-    "rank": 779,
+    "rank": 774,
     "store_name": "MYFITNESS",
     "domain_url": "https://myfitness.in",
     "emails": [
@@ -20489,7 +20343,7 @@
     "quality_score": 7
   },
   {
-    "rank": 780,
+    "rank": 775,
     "store_name": "Mysore Pattu",
     "domain_url": "https://mysorepattu.com",
     "emails": [
@@ -20516,7 +20370,7 @@
     "quality_score": 7
   },
   {
-    "rank": 781,
+    "rank": 776,
     "store_name": "RAREISM",
     "domain_url": "https://rareism.com",
     "emails": [
@@ -20544,7 +20398,7 @@
     "quality_score": 7
   },
   {
-    "rank": 782,
+    "rank": 777,
     "store_name": "Crepdog Crew",
     "domain_url": "https://crepdogcrew.com",
     "emails": [
@@ -20571,7 +20425,7 @@
     "quality_score": 7
   },
   {
-    "rank": 783,
+    "rank": 778,
     "store_name": "Fabb6",
     "domain_url": "https://fabb6.com",
     "emails": [
@@ -20597,7 +20451,7 @@
     "quality_score": 7
   },
   {
-    "rank": 784,
+    "rank": 779,
     "store_name": "naturaltein",
     "domain_url": "https://naturaltein.in",
     "emails": [
@@ -20622,7 +20476,7 @@
     "quality_score": 7
   },
   {
-    "rank": 785,
+    "rank": 780,
     "store_name": "Scentoria",
     "domain_url": "https://scentoria.co.in",
     "emails": [
@@ -20650,7 +20504,7 @@
     "quality_score": 7
   },
   {
-    "rank": 786,
+    "rank": 781,
     "store_name": "Sheetal Batra",
     "domain_url": "https://sheetalbatra.com",
     "emails": [
@@ -20680,7 +20534,7 @@
     "quality_score": 7
   },
   {
-    "rank": 787,
+    "rank": 782,
     "store_name": "Nalli Silk Sarees Pvt Ltd",
     "domain_url": "https://nalli.com",
     "emails": [
@@ -20706,7 +20560,7 @@
     "quality_score": 7
   },
   {
-    "rank": 788,
+    "rank": 783,
     "store_name": "clayco",
     "domain_url": "https://clayco.in",
     "emails": [
@@ -20735,7 +20589,7 @@
     "quality_score": 7
   },
   {
-    "rank": 789,
+    "rank": 784,
     "store_name": "FUAARK",
     "domain_url": "https://fuaark.com",
     "emails": [
@@ -20760,7 +20614,7 @@
     "quality_score": 7
   },
   {
-    "rank": 790,
+    "rank": 785,
     "store_name": "Organic India",
     "domain_url": "https://organicindia.com",
     "emails": [
@@ -20791,32 +20645,7 @@
     "quality_score": 7
   },
   {
-    "rank": 791,
-    "store_name": "Oyela",
-    "domain_url": "https://oyela.in",
-    "emails": [
-      "support@oyela.in"
-    ],
-    "phones": [
-      "+918766278296"
-    ],
-    "instagram": "https://www.instagram.com/oyela.in",
-    "facebook": "https://www.facebook.com/oyela.in",
-    "twitter": "",
-    "linkedin": "",
-    "youtube": "",
-    "category": "Apparel & Fashion (Women)",
-    "tagline": "We’re a New-Age Brand bringing globally viral styles at affordable prices .",
-    "tagline_source": "about_paragraph",
-    "logo_url": "https://oyela.in/cdn/shop/files/Frame_1261157865_2x_f3488bdd-84c4-4b2a-9fb9-16088818f347.png?v=1712576863&width=500",
-    "state": "Haryana",
-    "city": "Gurugram",
-    "gstin": "",
-    "india_evidence": "meta.json country=IN; currency=INR; state=Haryana; .in domain; +91 phone on site",
-    "quality_score": 7
-  },
-  {
-    "rank": 792,
+    "rank": 786,
     "store_name": "BIRKENSTOCK",
     "domain_url": "https://birkenstock.in",
     "emails": [
@@ -20841,7 +20670,7 @@
     "quality_score": 7
   },
   {
-    "rank": 793,
+    "rank": 787,
     "store_name": "AINA",
     "domain_url": "https://aina.in",
     "emails": [
@@ -20866,7 +20695,7 @@
     "quality_score": 7
   },
   {
-    "rank": 794,
+    "rank": 788,
     "store_name": "BAPPA MORYA STORES",
     "domain_url": "https://bappamoryastores.com",
     "emails": [
@@ -20893,7 +20722,7 @@
     "quality_score": 7
   },
   {
-    "rank": 795,
+    "rank": 789,
     "store_name": "Bersache",
     "domain_url": "https://bersache.com",
     "emails": [
@@ -20921,7 +20750,7 @@
     "quality_score": 7
   },
   {
-    "rank": 796,
+    "rank": 790,
     "store_name": "Voguish",
     "domain_url": "https://bevoguish.in",
     "emails": [
@@ -20949,7 +20778,7 @@
     "quality_score": 7
   },
   {
-    "rank": 797,
+    "rank": 791,
     "store_name": "EcartSe",
     "domain_url": "https://ecartse.com",
     "emails": [
@@ -20975,7 +20804,7 @@
     "quality_score": 7
   },
   {
-    "rank": 798,
+    "rank": 792,
     "store_name": "Elcytec",
     "domain_url": "https://elcytec.com",
     "emails": [
@@ -21002,7 +20831,7 @@
     "quality_score": 7
   },
   {
-    "rank": 799,
+    "rank": 793,
     "store_name": "ElectroniksIndia",
     "domain_url": "https://electroniksindia.com",
     "emails": [
@@ -21028,7 +20857,7 @@
     "quality_score": 7
   },
   {
-    "rank": 800,
+    "rank": 794,
     "store_name": "fab-persona",
     "domain_url": "https://fabpersona.com",
     "emails": [
@@ -21054,7 +20883,7 @@
     "quality_score": 7
   },
   {
-    "rank": 801,
+    "rank": 795,
     "store_name": "Genie Bags",
     "domain_url": "https://genietravel.com",
     "emails": [
@@ -21081,7 +20910,7 @@
     "quality_score": 7
   },
   {
-    "rank": 802,
+    "rank": 796,
     "store_name": "TRIGGR",
     "domain_url": "https://getriggr.com",
     "emails": [
@@ -21108,7 +20937,7 @@
     "quality_score": 7
   },
   {
-    "rank": 803,
+    "rank": 797,
     "store_name": "Jumkey Handmade Terracotta Jewellery | 100% Handmade with Love ❤️",
     "domain_url": "https://jumkey.com",
     "emails": [
@@ -21134,7 +20963,7 @@
     "quality_score": 7
   },
   {
-    "rank": 804,
+    "rank": 798,
     "store_name": "Kaladhar",
     "domain_url": "https://mykaladhar.com",
     "emails": [
@@ -21161,7 +20990,7 @@
     "quality_score": 7
   },
   {
-    "rank": 805,
+    "rank": 799,
     "store_name": "Safari Bags ",
     "domain_url": "https://safaribags.com",
     "emails": [
@@ -21186,7 +21015,7 @@
     "quality_score": 7
   },
   {
-    "rank": 806,
+    "rank": 800,
     "store_name": "SaintG India",
     "domain_url": "https://saintg.in",
     "emails": [
@@ -21213,7 +21042,7 @@
     "quality_score": 7
   },
   {
-    "rank": 807,
+    "rank": 801,
     "store_name": "Sasitrends",
     "domain_url": "https://sasitrends.com",
     "emails": [
@@ -21239,7 +21068,7 @@
     "quality_score": 7
   },
   {
-    "rank": 808,
+    "rank": 802,
     "store_name": "Sojanya",
     "domain_url": "https://sojanya.com",
     "emails": [
@@ -21264,7 +21093,7 @@
     "quality_score": 7
   },
   {
-    "rank": 809,
+    "rank": 803,
     "store_name": "suryasilksonline.com",
     "domain_url": "https://suryasilksonline.com",
     "emails": [
@@ -21292,7 +21121,7 @@
     "quality_score": 7
   },
   {
-    "rank": 810,
+    "rank": 804,
     "store_name": "The Ethnic Label",
     "domain_url": "https://theethniclabel.com",
     "emails": [
@@ -21317,7 +21146,7 @@
     "quality_score": 7
   },
   {
-    "rank": 811,
+    "rank": 805,
     "store_name": "True Diamond IN",
     "domain_url": "https://truediamond.in",
     "emails": [
@@ -21344,7 +21173,7 @@
     "quality_score": 7
   },
   {
-    "rank": 812,
+    "rank": 806,
     "store_name": "TRULY SMA",
     "domain_url": "https://trulysma.com",
     "emails": [
@@ -21369,7 +21198,7 @@
     "quality_score": 7
   },
   {
-    "rank": 813,
+    "rank": 807,
     "store_name": "Crazymonk",
     "domain_url": "https://crazymonk.in",
     "emails": [
@@ -21394,7 +21223,7 @@
     "quality_score": 7
   },
   {
-    "rank": 814,
+    "rank": 808,
     "store_name": "Label Flavia",
     "domain_url": "https://labelflavia.com",
     "emails": [
@@ -21420,7 +21249,7 @@
     "quality_score": 7
   },
   {
-    "rank": 815,
+    "rank": 809,
     "store_name": "Maybell Womens Fashion",
     "domain_url": "https://maybellindia.com",
     "emails": [
@@ -21445,7 +21274,7 @@
     "quality_score": 7
   },
   {
-    "rank": 816,
+    "rank": 810,
     "store_name": "Meena Bazaar",
     "domain_url": "https://meenabazaar.com",
     "emails": [
@@ -21471,7 +21300,7 @@
     "quality_score": 7
   },
   {
-    "rank": 817,
+    "rank": 811,
     "store_name": "pazhassigarden",
     "domain_url": "https://pazhassigarden.in",
     "emails": [
@@ -21498,7 +21327,7 @@
     "quality_score": 7
   },
   {
-    "rank": 818,
+    "rank": 812,
     "store_name": "Pink Fort by FableStreet",
     "domain_url": "https://pinkfort.co",
     "emails": [
@@ -21524,7 +21353,7 @@
     "quality_score": 7
   },
   {
-    "rank": 819,
+    "rank": 813,
     "store_name": "Pspeaches",
     "domain_url": "https://pspeaches.com",
     "emails": [
@@ -21549,7 +21378,7 @@
     "quality_score": 7
   },
   {
-    "rank": 820,
+    "rank": 814,
     "store_name": "Sindhi Dry Fruits",
     "domain_url": "https://sindhidryfruits.live",
     "emails": [
@@ -21574,11 +21403,10 @@
     "quality_score": 7
   },
   {
-    "rank": 821,
+    "rank": 815,
     "store_name": "Tara-C-Tara",
     "domain_url": "https://taractara.com",
     "emails": [
-      "%20support@taractara.com",
       "support@taractara.com",
       "support@taractara.con"
     ],
@@ -21601,7 +21429,7 @@
     "quality_score": 7
   },
   {
-    "rank": 822,
+    "rank": 816,
     "store_name": "Varanga",
     "domain_url": "https://varanga.in",
     "emails": [
@@ -21627,7 +21455,7 @@
     "quality_score": 7
   },
   {
-    "rank": 823,
+    "rank": 817,
     "store_name": "Vasansi Jaipur",
     "domain_url": "https://vasansi.com",
     "emails": [
@@ -21654,7 +21482,7 @@
     "quality_score": 7
   },
   {
-    "rank": 824,
+    "rank": 818,
     "store_name": "Vishal Prints",
     "domain_url": "https://vishalprints.in",
     "emails": [
@@ -21679,7 +21507,7 @@
     "quality_score": 7
   },
   {
-    "rank": 825,
+    "rank": 819,
     "store_name": "Be Clinical",
     "domain_url": "https://be-clinical.com",
     "emails": [
@@ -21704,7 +21532,7 @@
     "quality_score": 7
   },
   {
-    "rank": 826,
+    "rank": 820,
     "store_name": "AMARIS ",
     "domain_url": "https://amarisjewels.com",
     "emails": [
@@ -21731,7 +21559,7 @@
     "quality_score": 7
   },
   {
-    "rank": 827,
+    "rank": 821,
     "store_name": "Anayna",
     "domain_url": "https://anayna.com",
     "emails": [
@@ -21757,7 +21585,7 @@
     "quality_score": 7
   },
   {
-    "rank": 828,
+    "rank": 822,
     "store_name": "HealthyHey",
     "domain_url": "https://healthyhey.com",
     "emails": [
@@ -21782,7 +21610,7 @@
     "quality_score": 7
   },
   {
-    "rank": 829,
+    "rank": 823,
     "store_name": "Heritage Hues By Ritika",
     "domain_url": "https://heritagehuesbyritika.com",
     "emails": [
@@ -21810,7 +21638,7 @@
     "quality_score": 7
   },
   {
-    "rank": 830,
+    "rank": 824,
     "store_name": "Jaipuri Stitch",
     "domain_url": "https://jaipuristitch.com",
     "emails": [
@@ -21835,11 +21663,10 @@
     "quality_score": 7
   },
   {
-    "rank": 831,
+    "rank": 825,
     "store_name": "kollercut",
     "domain_url": "https://kollercut.com",
     "emails": [
-      "email : contact@kollercut.com",
       "contact@kollercut.com"
     ],
     "phones": [
@@ -21863,7 +21690,7 @@
     "quality_score": 7
   },
   {
-    "rank": 832,
+    "rank": 826,
     "store_name": "MetroActiv",
     "domain_url": "https://metroactiv.com",
     "emails": [
@@ -21888,7 +21715,7 @@
     "quality_score": 7
   },
   {
-    "rank": 833,
+    "rank": 827,
     "store_name": "Prigan Wheel Covers",
     "domain_url": "https://priganindia.com",
     "emails": [
@@ -21913,7 +21740,7 @@
     "quality_score": 7
   },
   {
-    "rank": 834,
+    "rank": 828,
     "store_name": "Reid & Taylor",
     "domain_url": "https://reidandtaylor.in",
     "emails": [
@@ -21939,7 +21766,7 @@
     "quality_score": 7
   },
   {
-    "rank": 835,
+    "rank": 829,
     "store_name": "Salammal Silks",
     "domain_url": "https://salammalsilks.com",
     "emails": [
@@ -21968,7 +21795,7 @@
     "quality_score": 7
   },
   {
-    "rank": 836,
+    "rank": 830,
     "store_name": "Aretto",
     "domain_url": "https://wearetto.com",
     "emails": [
@@ -21995,7 +21822,7 @@
     "quality_score": 7
   },
   {
-    "rank": 837,
+    "rank": 831,
     "store_name": "HAY! ",
     "domain_url": "https://hayclothing.in",
     "emails": [
@@ -22020,7 +21847,7 @@
     "quality_score": 7
   },
   {
-    "rank": 838,
+    "rank": 832,
     "store_name": "MODERN SERIES",
     "domain_url": "https://modernseries.in",
     "emails": [
@@ -22047,7 +21874,7 @@
     "quality_score": 7
   },
   {
-    "rank": 839,
+    "rank": 833,
     "store_name": "nutrelanutrition",
     "domain_url": "https://nutrelanutrition.com",
     "emails": [
@@ -22073,7 +21900,7 @@
     "quality_score": 7
   },
   {
-    "rank": 840,
+    "rank": 834,
     "store_name": "Purple United Kids",
     "domain_url": "https://purpleunited.com",
     "emails": [
@@ -22100,7 +21927,7 @@
     "quality_score": 7
   },
   {
-    "rank": 841,
+    "rank": 835,
     "store_name": "The Revolver Club",
     "domain_url": "https://therevolverclub.com",
     "emails": [
@@ -22125,7 +21952,7 @@
     "quality_score": 7
   },
   {
-    "rank": 842,
+    "rank": 836,
     "store_name": "Weave & Decor",
     "domain_url": "https://weaveanddecor.com",
     "emails": [
@@ -22152,7 +21979,7 @@
     "quality_score": 7
   },
   {
-    "rank": 843,
+    "rank": 837,
     "store_name": "Yera",
     "domain_url": "https://yera.com",
     "emails": [
@@ -22179,7 +22006,7 @@
     "quality_score": 7
   },
   {
-    "rank": 844,
+    "rank": 838,
     "store_name": "ACwO",
     "domain_url": "https://acwo.com",
     "emails": [
@@ -22204,7 +22031,7 @@
     "quality_score": 7
   },
   {
-    "rank": 845,
+    "rank": 839,
     "store_name": "Dekor Company",
     "domain_url": "https://dekorcompany.com",
     "emails": [
@@ -22231,7 +22058,7 @@
     "quality_score": 7
   },
   {
-    "rank": 846,
+    "rank": 840,
     "store_name": "Kaavyam",
     "domain_url": "https://kaavyam.in",
     "emails": [
@@ -22256,7 +22083,7 @@
     "quality_score": 7
   },
   {
-    "rank": 847,
+    "rank": 841,
     "store_name": "Krutico",
     "domain_url": "https://krutico.com",
     "emails": [
@@ -22284,7 +22111,7 @@
     "quality_score": 7
   },
   {
-    "rank": 848,
+    "rank": 842,
     "store_name": "Mapro",
     "domain_url": "https://mapro.com",
     "emails": [
@@ -22309,7 +22136,7 @@
     "quality_score": 7
   },
   {
-    "rank": 849,
+    "rank": 843,
     "store_name": "Nazranachikan",
     "domain_url": "https://nazranachikan.com",
     "emails": [
@@ -22335,7 +22162,7 @@
     "quality_score": 7
   },
   {
-    "rank": 850,
+    "rank": 844,
     "store_name": "Peora",
     "domain_url": "https://peorajewellery.com",
     "emails": [
@@ -22362,7 +22189,7 @@
     "quality_score": 7
   },
   {
-    "rank": 851,
+    "rank": 845,
     "store_name": "Ristoss",
     "domain_url": "https://ristoss.com",
     "emails": [
@@ -22387,7 +22214,7 @@
     "quality_score": 7
   },
   {
-    "rank": 852,
+    "rank": 846,
     "store_name": "ServDharm",
     "domain_url": "https://servdharm.com",
     "emails": [
@@ -22415,7 +22242,7 @@
     "quality_score": 7
   },
   {
-    "rank": 853,
+    "rank": 847,
     "store_name": "Shop Mulmul",
     "domain_url": "https://shopmulmul.com",
     "emails": [
@@ -22440,7 +22267,7 @@
     "quality_score": 7
   },
   {
-    "rank": 854,
+    "rank": 848,
     "store_name": "Praylady",
     "domain_url": "https://shopwithpraylady.com",
     "emails": [
@@ -22468,7 +22295,7 @@
     "quality_score": 7
   },
   {
-    "rank": 855,
+    "rank": 849,
     "store_name": "Vahro",
     "domain_url": "https://vahro.in",
     "emails": [
@@ -22495,7 +22322,7 @@
     "quality_score": 7
   },
   {
-    "rank": 856,
+    "rank": 850,
     "store_name": "Zarf Living Private Limited",
     "domain_url": "https://zarfstudios.com",
     "emails": [
@@ -22520,7 +22347,7 @@
     "quality_score": 7
   },
   {
-    "rank": 857,
+    "rank": 851,
     "store_name": "Budhshiv.com",
     "domain_url": "https://budhshiv.com",
     "emails": [
@@ -22545,7 +22372,7 @@
     "quality_score": 7
   },
   {
-    "rank": 858,
+    "rank": 852,
     "store_name": "Jovees Herbal",
     "domain_url": "https://jovees.com",
     "emails": [
@@ -22571,7 +22398,7 @@
     "quality_score": 7
   },
   {
-    "rank": 859,
+    "rank": 853,
     "store_name": "Living Shapes",
     "domain_url": "https://livingshapes.in",
     "emails": [
@@ -22601,7 +22428,7 @@
     "quality_score": 7
   },
   {
-    "rank": 860,
+    "rank": 854,
     "store_name": "Revlon India",
     "domain_url": "https://revlon.co.in",
     "emails": [
@@ -22627,7 +22454,7 @@
     "quality_score": 7
   },
   {
-    "rank": 861,
+    "rank": 855,
     "store_name": "Sage By Mala",
     "domain_url": "https://sagebymala.com",
     "emails": [
@@ -22656,7 +22483,7 @@
     "quality_score": 7
   },
   {
-    "rank": 862,
+    "rank": 856,
     "store_name": "Sagacity ",
     "domain_url": "https://thesagacity.in",
     "emails": [
@@ -22682,7 +22509,7 @@
     "quality_score": 7
   },
   {
-    "rank": 863,
+    "rank": 857,
     "store_name": "Bicycle Kart",
     "domain_url": "https://bicyclekart.com",
     "emails": [
@@ -22709,7 +22536,7 @@
     "quality_score": 7
   },
   {
-    "rank": 864,
+    "rank": 858,
     "store_name": "Chase Haul",
     "domain_url": "https://chasehaul.com",
     "emails": [
@@ -22734,7 +22561,7 @@
     "quality_score": 7
   },
   {
-    "rank": 865,
+    "rank": 859,
     "store_name": "FIKN",
     "domain_url": "https://fikn.com",
     "emails": [
@@ -22759,7 +22586,7 @@
     "quality_score": 7
   },
   {
-    "rank": 866,
+    "rank": 860,
     "store_name": "JM LOOKS",
     "domain_url": "https://jmlooks.com",
     "emails": [
@@ -22784,7 +22611,7 @@
     "quality_score": 7
   },
   {
-    "rank": 867,
+    "rank": 861,
     "store_name": "Krishna Jewellers",
     "domain_url": "https://krishnajewellers.com",
     "emails": [
@@ -22811,7 +22638,7 @@
     "quality_score": 7
   },
   {
-    "rank": 868,
+    "rank": 862,
     "store_name": "Novology India",
     "domain_url": "https://novology.com",
     "emails": [
@@ -22837,7 +22664,7 @@
     "quality_score": 7
   },
   {
-    "rank": 869,
+    "rank": 863,
     "store_name": "Privee Paris",
     "domain_url": "https://priveeparis.in",
     "emails": [
@@ -22863,7 +22690,7 @@
     "quality_score": 7
   },
   {
-    "rank": 870,
+    "rank": 864,
     "store_name": "Slovic",
     "domain_url": "https://slovic.com",
     "emails": [
@@ -22890,7 +22717,7 @@
     "quality_score": 7
   },
   {
-    "rank": 871,
+    "rank": 865,
     "store_name": "Royal Box Shop",
     "domain_url": "https://royalboxshop.com",
     "emails": [
@@ -22915,7 +22742,7 @@
     "quality_score": 7
   },
   {
-    "rank": 872,
+    "rank": 866,
     "store_name": "Prokicksports",
     "domain_url": "https://prokicksports.com",
     "emails": [
@@ -22941,7 +22768,7 @@
     "quality_score": 7
   },
   {
-    "rank": 873,
+    "rank": 867,
     "store_name": "Animemart",
     "domain_url": "https://animemart.in",
     "emails": [
@@ -22966,7 +22793,7 @@
     "quality_score": 7
   },
   {
-    "rank": 874,
+    "rank": 868,
     "store_name": "BIBIN JOHN",
     "domain_url": "https://bibinjohn.com",
     "emails": [
@@ -22993,7 +22820,7 @@
     "quality_score": 7
   },
   {
-    "rank": 875,
+    "rank": 869,
     "store_name": "Freedom Tree",
     "domain_url": "https://freedomtree.in",
     "emails": [
@@ -23019,7 +22846,7 @@
     "quality_score": 7
   },
   {
-    "rank": 876,
+    "rank": 870,
     "store_name": "Groovee",
     "domain_url": "https://groovee.in",
     "emails": [
@@ -23047,7 +22874,7 @@
     "quality_score": 7
   },
   {
-    "rank": 877,
+    "rank": 871,
     "store_name": "mypoojabox",
     "domain_url": "https://mypoojabox.in",
     "emails": [
@@ -23073,7 +22900,7 @@
     "quality_score": 7
   },
   {
-    "rank": 878,
+    "rank": 872,
     "store_name": "Preity's Silks",
     "domain_url": "https://preityssilks.com",
     "emails": [
@@ -23100,7 +22927,7 @@
     "quality_score": 7
   },
   {
-    "rank": 879,
+    "rank": 873,
     "store_name": "richfeelnaturals.com",
     "domain_url": "https://richfeelnaturals.com",
     "emails": [
@@ -23125,7 +22952,7 @@
     "quality_score": 7
   },
   {
-    "rank": 880,
+    "rank": 874,
     "store_name": "Store No.6",
     "domain_url": "https://storeno6.com",
     "emails": [
@@ -23150,7 +22977,7 @@
     "quality_score": 7
   },
   {
-    "rank": 881,
+    "rank": 875,
     "store_name": "ThePeppyStore",
     "domain_url": "https://thepeppystore.in",
     "emails": [
@@ -23178,7 +23005,7 @@
     "quality_score": 7
   },
   {
-    "rank": 882,
+    "rank": 876,
     "store_name": "Hariba Dairy Farm",
     "domain_url": "https://haribadairyfarm.com",
     "emails": [
@@ -23205,7 +23032,7 @@
     "quality_score": 7
   },
   {
-    "rank": 883,
+    "rank": 877,
     "store_name": "Indus Valley",
     "domain_url": "https://buyindusvalley.in",
     "emails": [
@@ -23231,7 +23058,7 @@
     "quality_score": 7
   },
   {
-    "rank": 884,
+    "rank": 878,
     "store_name": "Creatures of Habit ",
     "domain_url": "https://creaturesofhabit.in",
     "emails": [
@@ -23256,7 +23083,7 @@
     "quality_score": 7
   },
   {
-    "rank": 885,
+    "rank": 879,
     "store_name": "Garg Traders",
     "domain_url": "https://gargtrader.com",
     "emails": [
@@ -23282,7 +23109,7 @@
     "quality_score": 7
   },
   {
-    "rank": 886,
+    "rank": 880,
     "store_name": "Kyari.co",
     "domain_url": "https://kyari.co",
     "emails": [
@@ -23311,7 +23138,7 @@
     "quality_score": 7
   },
   {
-    "rank": 887,
+    "rank": 881,
     "store_name": "NEEDLEDUST",
     "domain_url": "https://needledust.com",
     "emails": [
@@ -23336,7 +23163,7 @@
     "quality_score": 7
   },
   {
-    "rank": 888,
+    "rank": 882,
     "store_name": "OMOBIKES",
     "domain_url": "https://omobikes.com",
     "emails": [
@@ -23363,7 +23190,7 @@
     "quality_score": 7
   },
   {
-    "rank": 889,
+    "rank": 883,
     "store_name": "Toycra",
     "domain_url": "https://toycra.com",
     "emails": [
@@ -23391,7 +23218,7 @@
     "quality_score": 7
   },
   {
-    "rank": 890,
+    "rank": 884,
     "store_name": "Neidhal",
     "domain_url": "https://neidhal.com",
     "emails": [
@@ -23416,7 +23243,7 @@
     "quality_score": 7
   },
   {
-    "rank": 891,
+    "rank": 885,
     "store_name": "Animeal",
     "domain_url": "https://animeal.in",
     "emails": [
@@ -23443,7 +23270,7 @@
     "quality_score": 7
   },
   {
-    "rank": 892,
+    "rank": 886,
     "store_name": "Beautywiseshop",
     "domain_url": "https://beautywise.in",
     "emails": [
@@ -23468,7 +23295,7 @@
     "quality_score": 7
   },
   {
-    "rank": 893,
+    "rank": 887,
     "store_name": "BownBee - Styling Kids The Indian Way",
     "domain_url": "https://bownbee.com",
     "emails": [
@@ -23494,7 +23321,7 @@
     "quality_score": 7
   },
   {
-    "rank": 894,
+    "rank": 888,
     "store_name": "Ivalinmabia",
     "domain_url": "https://ivalinmabia.com",
     "emails": [
@@ -23522,7 +23349,7 @@
     "quality_score": 7
   },
   {
-    "rank": 895,
+    "rank": 889,
     "store_name": "Luvlap Store",
     "domain_url": "https://luvlap.com",
     "emails": [
@@ -23547,7 +23374,7 @@
     "quality_score": 7
   },
   {
-    "rank": 896,
+    "rank": 890,
     "store_name": "Wondergifts India ",
     "domain_url": "https://wondergifts.in",
     "emails": [
@@ -23573,7 +23400,7 @@
     "quality_score": 7
   },
   {
-    "rank": 897,
+    "rank": 891,
     "store_name": "Kalyanastrogems",
     "domain_url": "https://kalyanastrogems.com",
     "emails": [
@@ -23600,7 +23427,7 @@
     "quality_score": 7
   },
   {
-    "rank": 898,
+    "rank": 892,
     "store_name": "AathiLife",
     "domain_url": "https://aathilife.com",
     "emails": [
@@ -23626,7 +23453,7 @@
     "quality_score": 7
   },
   {
-    "rank": 899,
+    "rank": 893,
     "store_name": "budsblush",
     "domain_url": "https://budsnblush.com",
     "emails": [
@@ -23655,7 +23482,7 @@
     "quality_score": 7
   },
   {
-    "rank": 900,
+    "rank": 894,
     "store_name": "Hashboosh",
     "domain_url": "https://hashboosh.com",
     "emails": [
@@ -23681,7 +23508,7 @@
     "quality_score": 7
   },
   {
-    "rank": 901,
+    "rank": 895,
     "store_name": "MaheTri",
     "domain_url": "https://mahetri.in",
     "emails": [
@@ -23706,7 +23533,7 @@
     "quality_score": 7
   },
   {
-    "rank": 902,
+    "rank": 896,
     "store_name": "ManiacLife.com",
     "domain_url": "https://maniaclife.com",
     "emails": [
@@ -23732,7 +23559,7 @@
     "quality_score": 7
   },
   {
-    "rank": 903,
+    "rank": 897,
     "store_name": "Snehalayaa Silks",
     "domain_url": "https://snehalayaasilks.com",
     "emails": [
@@ -23757,7 +23584,7 @@
     "quality_score": 7
   },
   {
-    "rank": 904,
+    "rank": 898,
     "store_name": "THE INDIAN ETHNIC CO.",
     "domain_url": "https://theindianethnicco.com",
     "emails": [
@@ -23785,7 +23612,7 @@
     "quality_score": 7
   },
   {
-    "rank": 905,
+    "rank": 899,
     "store_name": "Zone Alpha",
     "domain_url": "https://zonealpha.in",
     "emails": [
@@ -23812,7 +23639,7 @@
     "quality_score": 7
   },
   {
-    "rank": 906,
+    "rank": 900,
     "store_name": "letscurlup",
     "domain_url": "https://letscurlup.com",
     "emails": [
@@ -23838,7 +23665,7 @@
     "quality_score": 7
   },
   {
-    "rank": 907,
+    "rank": 901,
     "store_name": "Attrangi",
     "domain_url": "https://attrangi.in",
     "emails": [
@@ -23863,7 +23690,7 @@
     "quality_score": 7
   },
   {
-    "rank": 908,
+    "rank": 902,
     "store_name": "Cove and Lane",
     "domain_url": "https://coveandlane.in",
     "emails": [
@@ -23888,7 +23715,7 @@
     "quality_score": 7
   },
   {
-    "rank": 909,
+    "rank": 903,
     "store_name": "cumin co.",
     "domain_url": "https://cuminco.com",
     "emails": [
@@ -23913,7 +23740,7 @@
     "quality_score": 7
   },
   {
-    "rank": 910,
+    "rank": 904,
     "store_name": "Evierose",
     "domain_url": "https://evierose.in",
     "emails": [
@@ -23938,7 +23765,7 @@
     "quality_score": 7
   },
   {
-    "rank": 911,
+    "rank": 905,
     "store_name": "Full Marks",
     "domain_url": "https://fmpl.in",
     "emails": [
@@ -23966,7 +23793,7 @@
     "quality_score": 7
   },
   {
-    "rank": 912,
+    "rank": 906,
     "store_name": "Goamen",
     "domain_url": "https://goamen.com",
     "emails": [
@@ -23991,7 +23818,7 @@
     "quality_score": 7
   },
   {
-    "rank": 913,
+    "rank": 907,
     "store_name": "HELMETWALA.COM",
     "domain_url": "https://helmetwala.com",
     "emails": [
@@ -24016,7 +23843,7 @@
     "quality_score": 7
   },
   {
-    "rank": 914,
+    "rank": 908,
     "store_name": "Label S4U",
     "domain_url": "https://label-s4u.com",
     "emails": [
@@ -24042,7 +23869,7 @@
     "quality_score": 7
   },
   {
-    "rank": 915,
+    "rank": 909,
     "store_name": "Lakme Salon",
     "domain_url": "https://lakmesalon.in",
     "emails": [
@@ -24068,7 +23895,7 @@
     "quality_score": 7
   },
   {
-    "rank": 916,
+    "rank": 910,
     "store_name": "miraahe.com",
     "domain_url": "https://miraahe.com",
     "emails": [
@@ -24093,7 +23920,7 @@
     "quality_score": 7
   },
   {
-    "rank": 917,
+    "rank": 911,
     "store_name": "The Jaipur Studio",
     "domain_url": "https://thejaipurstudio.com",
     "emails": [
@@ -24118,7 +23945,7 @@
     "quality_score": 7
   },
   {
-    "rank": 918,
+    "rank": 912,
     "store_name": "Trance Home Linen",
     "domain_url": "https://trancehomelinen.in",
     "emails": [
@@ -24145,12 +23972,11 @@
     "quality_score": 7
   },
   {
-    "rank": 919,
+    "rank": 913,
     "store_name": "Twinkle Choice Erode",
     "domain_url": "https://twinklechoice.com",
     "emails": [
       "twinklechoice.erode@gmail.com",
-      "%c2%a0twinklechoice.erode@gmail.com",
       "support@twinklechoice.com"
     ],
     "phones": [
@@ -24172,7 +23998,7 @@
     "quality_score": 7
   },
   {
-    "rank": 920,
+    "rank": 914,
     "store_name": "Glutone",
     "domain_url": "https://glutone.in",
     "emails": [
@@ -24197,7 +24023,7 @@
     "quality_score": 7
   },
   {
-    "rank": 921,
+    "rank": 915,
     "store_name": "Armaf India",
     "domain_url": "https://armafperfume.com",
     "emails": [
@@ -24222,7 +24048,7 @@
     "quality_score": 7
   },
   {
-    "rank": 922,
+    "rank": 916,
     "store_name": "Cobbitalyofficial",
     "domain_url": "https://cobbitaly.com",
     "emails": [
@@ -24248,7 +24074,7 @@
     "quality_score": 7
   },
   {
-    "rank": 923,
+    "rank": 917,
     "store_name": "Makezmia",
     "domain_url": "https://makezmia.com",
     "emails": [
@@ -24273,7 +24099,7 @@
     "quality_score": 7
   },
   {
-    "rank": 924,
+    "rank": 918,
     "store_name": "Padmam",
     "domain_url": "https://padmam.com",
     "emails": [
@@ -24299,7 +24125,7 @@
     "quality_score": 7
   },
   {
-    "rank": 925,
+    "rank": 919,
     "store_name": "thegoodbug",
     "domain_url": "https://thegoodbug.com",
     "emails": [
@@ -24325,7 +24151,7 @@
     "quality_score": 7
   },
   {
-    "rank": 926,
+    "rank": 920,
     "store_name": "Yuvi style",
     "domain_url": "https://yuvistyle.com",
     "emails": [
@@ -24352,7 +24178,7 @@
     "quality_score": 7
   },
   {
-    "rank": 927,
+    "rank": 921,
     "store_name": "InstaCuppa Store",
     "domain_url": "https://instacuppastore.com",
     "emails": [
@@ -24377,7 +24203,7 @@
     "quality_score": 7
   },
   {
-    "rank": 928,
+    "rank": 922,
     "store_name": "arogyamayurveda",
     "domain_url": "https://arogyamshop.com",
     "emails": [
@@ -24404,7 +24230,7 @@
     "quality_score": 7
   },
   {
-    "rank": 929,
+    "rank": 923,
     "store_name": "Chaayos",
     "domain_url": "https://chaayos.com",
     "emails": [
@@ -24430,7 +24256,7 @@
     "quality_score": 7
   },
   {
-    "rank": 930,
+    "rank": 924,
     "store_name": "Drivestylish",
     "domain_url": "https://drivestylish.com",
     "emails": [
@@ -24455,7 +24281,7 @@
     "quality_score": 7
   },
   {
-    "rank": 931,
+    "rank": 925,
     "store_name": "Etchcraft Emporium",
     "domain_url": "https://etchcraftemporium.in",
     "emails": [
@@ -24481,7 +24307,7 @@
     "quality_score": 7
   },
   {
-    "rank": 932,
+    "rank": 926,
     "store_name": "Jnorss",
     "domain_url": "https://jnorss.in",
     "emails": [
@@ -24507,7 +24333,7 @@
     "quality_score": 7
   },
   {
-    "rank": 933,
+    "rank": 927,
     "store_name": "Menmai™",
     "domain_url": "https://menmaifabrics.com",
     "emails": [
@@ -24533,7 +24359,7 @@
     "quality_score": 7
   },
   {
-    "rank": 934,
+    "rank": 928,
     "store_name": "Shivcrafts",
     "domain_url": "https://shivcrafts.com",
     "emails": [
@@ -24561,7 +24387,7 @@
     "quality_score": 7
   },
   {
-    "rank": 935,
+    "rank": 929,
     "store_name": "Fashion Capital",
     "domain_url": "https://thefashioncapital.in",
     "emails": [
@@ -24588,7 +24414,7 @@
     "quality_score": 7
   },
   {
-    "rank": 936,
+    "rank": 930,
     "store_name": "Zivanche",
     "domain_url": "https://zivanche.com",
     "emails": [
@@ -24615,7 +24441,7 @@
     "quality_score": 7
   },
   {
-    "rank": 937,
+    "rank": 931,
     "store_name": "AURAVEDIC",
     "domain_url": "https://auravedic.com",
     "emails": [
@@ -24640,7 +24466,7 @@
     "quality_score": 7
   },
   {
-    "rank": 938,
+    "rank": 932,
     "store_name": "Supreme Mobiles",
     "domain_url": "https://suprememobiles.in",
     "emails": [
@@ -24665,7 +24491,7 @@
     "quality_score": 7
   },
   {
-    "rank": 939,
+    "rank": 933,
     "store_name": "Pure Aura",
     "domain_url": "https://pureaura.in",
     "emails": [
@@ -24693,7 +24519,7 @@
     "quality_score": 7
   },
   {
-    "rank": 940,
+    "rank": 934,
     "store_name": "Ayur Kart",
     "domain_url": "https://ayurkart.com",
     "emails": [
@@ -24718,7 +24544,7 @@
     "quality_score": 7
   },
   {
-    "rank": 941,
+    "rank": 935,
     "store_name": " DishaCreationz",
     "domain_url": "https://dishacreationz.com",
     "emails": [
@@ -24745,7 +24571,7 @@
     "quality_score": 7
   },
   {
-    "rank": 942,
+    "rank": 936,
     "store_name": "FABK",
     "domain_url": "https://fabk.in",
     "emails": [
@@ -24772,7 +24598,7 @@
     "quality_score": 7
   },
   {
-    "rank": 943,
+    "rank": 937,
     "store_name": "Fabricroot",
     "domain_url": "https://fabricroot.com",
     "emails": [
@@ -24798,7 +24624,7 @@
     "quality_score": 7
   },
   {
-    "rank": 944,
+    "rank": 938,
     "store_name": "KITCHEN MART",
     "domain_url": "https://kitchenmart.co.in",
     "emails": [
@@ -24826,7 +24652,7 @@
     "quality_score": 7
   },
   {
-    "rank": 945,
+    "rank": 939,
     "store_name": "Lovegen",
     "domain_url": "https://lovegen.com",
     "emails": [
@@ -24851,7 +24677,7 @@
     "quality_score": 7
   },
   {
-    "rank": 946,
+    "rank": 940,
     "store_name": "Qua",
     "domain_url": "https://qua.clothing",
     "emails": [
@@ -24876,7 +24702,7 @@
     "quality_score": 7
   },
   {
-    "rank": 947,
+    "rank": 941,
     "store_name": "Rosh Cookwares",
     "domain_url": "https://roshcookwares.in",
     "emails": [
@@ -24902,7 +24728,7 @@
     "quality_score": 7
   },
   {
-    "rank": 948,
+    "rank": 942,
     "store_name": "Tilfi",
     "domain_url": "https://tilfi.com",
     "emails": [
@@ -24927,7 +24753,7 @@
     "quality_score": 7
   },
   {
-    "rank": 949,
+    "rank": 943,
     "store_name": "Travel Story Collectives",
     "domain_url": "https://travelstorycollectives.com",
     "emails": [
@@ -24954,7 +24780,7 @@
     "quality_score": 7
   },
   {
-    "rank": 950,
+    "rank": 944,
     "store_name": "Cultree India",
     "domain_url": "https://cultree.in",
     "emails": [
@@ -24981,7 +24807,7 @@
     "quality_score": 7
   },
   {
-    "rank": 951,
+    "rank": 945,
     "store_name": "Rwdy",
     "domain_url": "https://rwdy.in",
     "emails": [
@@ -25008,7 +24834,7 @@
     "quality_score": 7
   },
   {
-    "rank": 952,
+    "rank": 946,
     "store_name": "akiiko",
     "domain_url": "https://akiiko.com",
     "emails": [
@@ -25037,7 +24863,7 @@
     "quality_score": 7
   },
   {
-    "rank": 953,
+    "rank": 947,
     "store_name": "ARKS",
     "domain_url": "https://arks.club",
     "emails": [
@@ -25062,7 +24888,7 @@
     "quality_score": 7
   },
   {
-    "rank": 954,
+    "rank": 948,
     "store_name": "ATPU's - Atreyapuram Putharekulu",
     "domain_url": "https://atpu.in",
     "emails": [
@@ -25090,7 +24916,7 @@
     "quality_score": 7
   },
   {
-    "rank": 955,
+    "rank": 949,
     "store_name": "BookMyCostume",
     "domain_url": "https://bookmycostume.com",
     "emails": [
@@ -25115,7 +24941,7 @@
     "quality_score": 7
   },
   {
-    "rank": 956,
+    "rank": 950,
     "store_name": "Chkokko",
     "domain_url": "https://chkokko.com",
     "emails": [
@@ -25140,7 +24966,7 @@
     "quality_score": 7
   },
   {
-    "rank": 957,
+    "rank": 951,
     "store_name": "HOK Makeup",
     "domain_url": "https://hokmakeup.com",
     "emails": [
@@ -25166,11 +24992,10 @@
     "quality_score": 7
   },
   {
-    "rank": 958,
+    "rank": 952,
     "store_name": "LAVANYA THE LABEL",
     "domain_url": "https://lavanyathelabel.com",
     "emails": [
-      "//orders@lavanyathelabel.com",
       "orders@lavanyathelabel.com"
     ],
     "phones": [
@@ -25192,7 +25017,7 @@
     "quality_score": 7
   },
   {
-    "rank": 959,
+    "rank": 953,
     "store_name": "Ripped Up Nutrition",
     "domain_url": "https://rippedupnutrition.com",
     "emails": [
@@ -25219,7 +25044,7 @@
     "quality_score": 7
   },
   {
-    "rank": 960,
+    "rank": 954,
     "store_name": "sportsun.in",
     "domain_url": "https://sportsun.in",
     "emails": [
@@ -25248,7 +25073,7 @@
     "quality_score": 7
   },
   {
-    "rank": 961,
+    "rank": 955,
     "store_name": "HIRA FRAGRANCES",
     "domain_url": "https://hirafragrances.com",
     "emails": [
@@ -25273,7 +25098,7 @@
     "quality_score": 7
   },
   {
-    "rank": 962,
+    "rank": 956,
     "store_name": "Flicka Cosmetics Pvt Ltd",
     "domain_url": "https://flickacosmetics.com",
     "emails": [
@@ -25302,7 +25127,7 @@
     "quality_score": 7
   },
   {
-    "rank": 963,
+    "rank": 957,
     "store_name": "Gear Guard",
     "domain_url": "https://gearguard.in",
     "emails": [
@@ -25327,7 +25152,7 @@
     "quality_score": 7
   },
   {
-    "rank": 964,
+    "rank": 958,
     "store_name": "Hidesign",
     "domain_url": "https://hidesign.com",
     "emails": [
@@ -25356,7 +25181,7 @@
     "quality_score": 7
   },
   {
-    "rank": 965,
+    "rank": 959,
     "store_name": "Hitter Bat",
     "domain_url": "https://hittersports.in",
     "emails": [
@@ -25382,7 +25207,7 @@
     "quality_score": 7
   },
   {
-    "rank": 966,
+    "rank": 960,
     "store_name": "Mahajan Electronics Online",
     "domain_url": "https://mahajanelectronics.com",
     "emails": [
@@ -25410,7 +25235,7 @@
     "quality_score": 7
   },
   {
-    "rank": 967,
+    "rank": 961,
     "store_name": "Make Your Own Perfume",
     "domain_url": "https://myop.in",
     "emails": [
@@ -25436,7 +25261,7 @@
     "quality_score": 7
   },
   {
-    "rank": 968,
+    "rank": 962,
     "store_name": "Prisma",
     "domain_url": "https://myprisma.in",
     "emails": [
@@ -25464,7 +25289,7 @@
     "quality_score": 7
   },
   {
-    "rank": 969,
+    "rank": 963,
     "store_name": "Ride Adventure",
     "domain_url": "https://rideadventure.in",
     "emails": [
@@ -25490,7 +25315,7 @@
     "quality_score": 7
   },
   {
-    "rank": 970,
+    "rank": 964,
     "store_name": "Wacoal India",
     "domain_url": "https://wacoalindia.com",
     "emails": [
@@ -25515,7 +25340,7 @@
     "quality_score": 7
   },
   {
-    "rank": 971,
+    "rank": 965,
     "store_name": "Wellwith",
     "domain_url": "https://wellwithlife.com",
     "emails": [
@@ -25541,7 +25366,7 @@
     "quality_score": 7
   },
   {
-    "rank": 972,
+    "rank": 966,
     "store_name": "Whimsy Beauty",
     "domain_url": "https://whimsyindia.com",
     "emails": [
@@ -25566,7 +25391,7 @@
     "quality_score": 7
   },
   {
-    "rank": 973,
+    "rank": 967,
     "store_name": "MISHMASH NATURALS ",
     "domain_url": "https://mishmashnaturals.com",
     "emails": [
@@ -25592,7 +25417,7 @@
     "quality_score": 7
   },
   {
-    "rank": 974,
+    "rank": 968,
     "store_name": "Bagru Art ",
     "domain_url": "https://bagruart.com",
     "emails": [
@@ -25618,7 +25443,7 @@
     "quality_score": 7
   },
   {
-    "rank": 975,
+    "rank": 969,
     "store_name": "Blue Tokai Coffee Roasters",
     "domain_url": "https://bluetokaicoffee.com",
     "emails": [
@@ -25644,7 +25469,7 @@
     "quality_score": 7
   },
   {
-    "rank": 976,
+    "rank": 970,
     "store_name": "Bombay Sweet Shop",
     "domain_url": "https://bombaysweetshop.com",
     "emails": [
@@ -25669,7 +25494,7 @@
     "quality_score": 7
   },
   {
-    "rank": 977,
+    "rank": 971,
     "store_name": "DealCliq.com",
     "domain_url": "https://dealcliq.com",
     "emails": [
@@ -25695,7 +25520,7 @@
     "quality_score": 7
   },
   {
-    "rank": 978,
+    "rank": 972,
     "store_name": "Little Muffet",
     "domain_url": "https://littlemuffet.in",
     "emails": [
@@ -25720,7 +25545,7 @@
     "quality_score": 7
   },
   {
-    "rank": 979,
+    "rank": 973,
     "store_name": "Outdoor Goats",
     "domain_url": "https://outdoorgoats.com",
     "emails": [
@@ -25748,7 +25573,7 @@
     "quality_score": 7
   },
   {
-    "rank": 980,
+    "rank": 974,
     "store_name": "The 1970 Shop",
     "domain_url": "https://the1970shop.com",
     "emails": [
@@ -25774,7 +25599,7 @@
     "quality_score": 7
   },
   {
-    "rank": 981,
+    "rank": 975,
     "store_name": "Cureveda",
     "domain_url": "https://cureveda.com",
     "emails": [
@@ -25799,7 +25624,7 @@
     "quality_score": 7
   },
   {
-    "rank": 982,
+    "rank": 976,
     "store_name": "Hibiscus Monkey",
     "domain_url": "https://hibiscusmonkey.com",
     "emails": [
@@ -25825,7 +25650,7 @@
     "quality_score": 7
   },
   {
-    "rank": 983,
+    "rank": 977,
     "store_name": "InArt-Studio",
     "domain_url": "https://inart.co.in",
     "emails": [
@@ -25850,7 +25675,7 @@
     "quality_score": 7
   },
   {
-    "rank": 984,
+    "rank": 978,
     "store_name": "Indian Snack House",
     "domain_url": "https://indiansnackhouse.com",
     "emails": [
@@ -25878,13 +25703,12 @@
     "quality_score": 7
   },
   {
-    "rank": 985,
+    "rank": 979,
     "store_name": "Skillmatics India",
     "domain_url": "https://skillmatics.in",
     "emails": [
-      "%20help@skillmatics.in",
-      "help@skillmaticsworld.com",
-      "help@skillmatics.in"
+      "help@skillmatics.in",
+      "help@skillmaticsworld.com"
     ],
     "phones": [
       "+918422822545"
@@ -25905,7 +25729,7 @@
     "quality_score": 7
   },
   {
-    "rank": 986,
+    "rank": 980,
     "store_name": "StudioKook",
     "domain_url": "https://studiokook.com",
     "emails": [
@@ -25930,7 +25754,7 @@
     "quality_score": 7
   },
   {
-    "rank": 987,
+    "rank": 981,
     "store_name": "The Horizon Collections",
     "domain_url": "https://thehorizoncollections.com",
     "emails": [
@@ -25956,7 +25780,7 @@
     "quality_score": 7
   },
   {
-    "rank": 988,
+    "rank": 982,
     "store_name": "Car101",
     "domain_url": "https://car101.in",
     "emails": [
@@ -25981,7 +25805,7 @@
     "quality_score": 7
   },
   {
-    "rank": 989,
+    "rank": 983,
     "store_name": "EcoFlow",
     "domain_url": "https://ecoflowindia.com",
     "emails": [
@@ -26007,7 +25831,7 @@
     "quality_score": 7
   },
   {
-    "rank": 990,
+    "rank": 984,
     "store_name": "Agriplex",
     "domain_url": "https://agriplexindia.com",
     "emails": [
@@ -26034,7 +25858,7 @@
     "quality_score": 7
   },
   {
-    "rank": 991,
+    "rank": 985,
     "store_name": "Link Locks Pvt. Ltd.",
     "domain_url": "https://linkcart.in",
     "emails": [
@@ -26049,7 +25873,7 @@
     "twitter": "https://x.com/linklocksindia",
     "linkedin": "https://www.linkedin.com/company/link-locks",
     "youtube": "https://www.youtube.com/@LinkLocksIndiaa",
-    "category": "Bags & Luggage",
+    "category": "Locks",
     "tagline": "Shop for durable Digital locks, bedroom door locks, and padlocks online. Find the perfect security solution for your home and bike at our online lock shop.",
     "tagline_source": "meta_json",
     "logo_url": "https://www.linkcart.in/cdn/shop/files/link_logo_1.png",
@@ -26060,7 +25884,7 @@
     "quality_score": 7
   },
   {
-    "rank": 992,
+    "rank": 986,
     "store_name": "Lorazzo",
     "domain_url": "https://lorazzo.com",
     "emails": [
@@ -26085,7 +25909,7 @@
     "quality_score": 7
   },
   {
-    "rank": 993,
+    "rank": 987,
     "store_name": "The Black Box Co.",
     "domain_url": "https://theblackboxco.com",
     "emails": [
@@ -26112,7 +25936,7 @@
     "quality_score": 7
   },
   {
-    "rank": 994,
+    "rank": 988,
     "store_name": "WearADHD",
     "domain_url": "https://wearadhd.com",
     "emails": [
@@ -26140,7 +25964,7 @@
     "quality_score": 7
   },
   {
-    "rank": 995,
+    "rank": 989,
     "store_name": "Winston Electronics",
     "domain_url": "https://winstonindia.com",
     "emails": [
@@ -26166,7 +25990,7 @@
     "quality_score": 7
   },
   {
-    "rank": 996,
+    "rank": 990,
     "store_name": "WNTR ",
     "domain_url": "https://wntrtravel.com",
     "emails": [
@@ -26192,7 +26016,7 @@
     "quality_score": 7
   },
   {
-    "rank": 997,
+    "rank": 991,
     "store_name": "Embarouge",
     "domain_url": "https://embarouge.in",
     "emails": [
@@ -26217,7 +26041,7 @@
     "quality_score": 7
   },
   {
-    "rank": 998,
+    "rank": 992,
     "store_name": "Solace International",
     "domain_url": "https://solacegears.com",
     "emails": [
@@ -26245,7 +26069,7 @@
     "quality_score": 7
   },
   {
-    "rank": 999,
+    "rank": 993,
     "store_name": "CRAFTERS CORNER",
     "domain_url": "https://crafterscorner.in",
     "emails": [
@@ -26270,7 +26094,7 @@
     "quality_score": 7
   },
   {
-    "rank": 1000,
+    "rank": 994,
     "store_name": "HaappyHerbs",
     "domain_url": "https://haappyherbs.com",
     "emails": [
@@ -26293,6 +26117,160 @@
     "city": "Chennai",
     "gstin": "",
     "india_evidence": "meta.json country=IN; currency=INR; state=Tamil Nadu; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 995,
+    "store_name": "V-Guard Industries Limited",
+    "domain_url": "https://vguard.com",
+    "emails": [
+      "vg.care@vguard.in"
+    ],
+    "phones": [
+      "+911204850100"
+    ],
+    "instagram": "",
+    "facebook": "https://www.facebook.com/VGuardOnline",
+    "twitter": "https://twitter.com/VGuardOfficial",
+    "linkedin": "https://in.linkedin.com/company/vguardofficial",
+    "youtube": "https://www.youtube.com/user/VguardOnline",
+    "category": "Electronics & Gadgets",
+    "tagline": "Now Shop Directly From V-Guard’s Official Online Store! Enjoy exclusive deals on V-Guard Products like Stabilizers, Fans, Inverters, Air Coolers, Water Heaters, Kitchen Appliances & more.",
+    "tagline_source": "meta_json",
+    "logo_url": "https://vguard.com/cdn/shop/files/logo_gradient_copy.png?v=1695275735&width=500",
+    "state": "Kerala",
+    "city": "Kochi",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Kerala; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 996,
+    "store_name": "ForeverKidz",
+    "domain_url": "https://foreverkidz.in",
+    "emails": [
+      "support@foreverkidz.in"
+    ],
+    "phones": [
+      "+918792740079"
+    ],
+    "instagram": "https://www.instagram.com/foreverkidz_official",
+    "facebook": "https://www.facebook.com/foreverkidzclothing",
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCbTSjfybdG9s8Odx-pCMhVw",
+    "category": "Apparel & Fashion",
+    "tagline": "ForeverKidz is an Online Clothing Store for Kids, Girls and Babies of 1-10 years. Buy Kids Clothes, childrens dress, kids trendy dress, Party & Ethnic Wear for Birthday & Wedding.",
+    "tagline_source": "meta_json",
+    "logo_url": "https://www.foreverkidz.in/cdn/shop/files/fk-logo.png",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Uttar Pradesh; .in domain; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 997,
+    "store_name": "MySpareMarket",
+    "domain_url": "https://mysparemarket.com",
+    "emails": [
+      "support@mysparemarket.com",
+      "mysmmotoparts@gmail.com"
+    ],
+    "phones": [
+      "+919769004646",
+      "+918898683171"
+    ],
+    "instagram": "https://www.instagram.com/mysparemarket",
+    "facebook": "https://www.facebook.com/MySpareMarket",
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@mysparemarket",
+    "category": "Automotive",
+    "tagline": "Buy genuine KTM spare parts online from MySpareMarket. Discover a complete range of original KTM parts trusted by riders across India with secure ordering and fast delivery.",
+    "tagline_source": "meta_json",
+    "logo_url": "https://mysparemarket.com/cdn/shop/files/CANVA_10_21641764-bbe0-45c1-be22-260eded21435.png?v=1767352564&width=1080",
+    "state": "Maharashtra",
+    "city": "mumbai",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Maharashtra; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 998,
+    "store_name": "NOOE",
+    "domain_url": "https://nooe.co",
+    "emails": [
+      "sup@nooe.co"
+    ],
+    "phones": [
+      "+919205412707",
+      "+919667365800"
+    ],
+    "instagram": "https://www.instagram.com/reservenooe",
+    "facebook": "https://www.facebook.com/reservenooe",
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@reservenooe",
+    "category": "Books & Stationery",
+    "tagline": "NOOE offers stylish home office accessories, including wooden desk accessories. Shop now for high-quality mouse rugs, mobile stands, and more.",
+    "tagline_source": "meta_json",
+    "logo_url": "https://nooe.co/cdn/shop/files/NOOE_Logo_1.png?v=1721716242&width=103",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Delhi; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 999,
+    "store_name": "Sri Sri Tattva",
+    "domain_url": "https://srisritattva.com",
+    "emails": [
+      "mehul@srisritattva.com"
+    ],
+    "phones": [
+      "+9118001208030"
+    ],
+    "instagram": "https://www.instagram.com/srisritattva",
+    "facebook": "https://www.facebook.com/SriSriTattva",
+    "twitter": "https://twitter.com/SriSriTattva",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC-PiB-Bn8K9KKoxZEyebgWQ",
+    "category": "Food & Beverages",
+    "tagline": "Sri Sri Tattva | Grocery | Ayurveda | Personal Care | Health Care | Home Care | Ghee | Herbal Juices | Incense | Fragrance",
+    "tagline_source": "meta_json",
+    "logo_url": "https://www.srisritattva.com/cdn/shop/files/4927564f1d554246a2d3cc1c7a0343d2_1.png?v=1692352382&width=500",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Karnataka; +91 phone on site",
+    "quality_score": 7
+  },
+  {
+    "rank": 1000,
+    "store_name": "www.superherotoystore.com",
+    "domain_url": "https://superherotoystore.com",
+    "emails": [
+      "devesh@superherotoystore.com",
+      "deveshc@superherotoystore.com"
+    ],
+    "phones": [
+      "+917304020923"
+    ],
+    "instagram": "https://www.instagram.com/superherotoystore",
+    "facebook": "https://www.facebook.com/superherotoystore",
+    "twitter": "https://twitter.com/super_herotoys",
+    "linkedin": "",
+    "youtube": "",
+    "category": "Automotive",
+    "tagline": "Collectibles, Toys, Posters and more of Batman, Superman, Ironman, Hulk, Wolverine, Captain America, Game of Thrones, Breaking Bad, Green Lantern, Flash, Arrow.",
+    "tagline_source": "meta_json",
+    "logo_url": "https://customers.seomanager.com/knowledgegraph/logo/super-hero-toy-store_myshopify_com_logo.png?cache=4574",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "gstin": "",
+    "india_evidence": "meta.json country=IN; currency=INR; state=Maharashtra; +91 phone on site",
     "quality_score": 7
   }
 ]

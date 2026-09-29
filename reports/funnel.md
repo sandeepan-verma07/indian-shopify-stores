@@ -34,12 +34,13 @@ Each check is applied on top of the ones above it. A store must pass all of them
 | India proof on the site itself (+91 phone / GSTIN / PIN code) | 497 | 1,703 |
 | logo URL returns an image (live, on the 1,703 candidates) | 59 | 1,644 |
 | email domain can receive mail (MX record) (live, on the 1,703 candidates) | 25 | 1,620 |
+| every field confirmed on the live site (final audit) (live, on the 1,006 audited stores) | 6 | 1,614 |
 
-**1,620 stores pass every check.** They are ranked by a quality score and the top 1,000 become `data/stores.csv` / `data/stores.json`.
+**1,614 stores pass every check.** They are ranked by a quality score and the top 1,000 become `data/stores.csv` / `data/stores.json`.
 
 Quality score (max 13): GSTIN on site +3 · email on the store's own domain +2 · +1 per social profile · AI vote share >= 60% +1 · 20+ products +1 · About page +1. Ties: more popular first (CrUX India rank), then AI vote share.
 
-Score of the last store that made the cut: 7 (passing stores left out: 620).
+Score of the last store that made the cut: 7 (passing stores left out: 614).
 
 ## 3. How often each field was missing
 
@@ -47,15 +48,15 @@ Score of the last store that made the cut: 7 (passing stores left out: 620).
 |---|---:|---:|
 | Email | 246 (6.4%) | 0 (0.0%) |
 | Phone | 546 (14.2%) | 0 (0.0%) |
-| Instagram | 635 (16.5%) | 4 (0.4%) |
+| Instagram | 635 (16.5%) | 5 (0.5%) |
 | Facebook | 1,296 (33.8%) | 73 (7.3%) |
-| Twitter | 3,026 (78.9%) | 674 (67.4%) |
-| LinkedIn | 3,142 (81.9%) | 691 (69.1%) |
-| Youtube | 1,789 (46.6%) | 228 (22.8%) |
+| Twitter | 3,026 (78.9%) | 671 (67.1%) |
+| LinkedIn | 3,142 (81.9%) | 692 (69.2%) |
+| Youtube | 1,789 (46.6%) | 227 (22.7%) |
 | Logo | 163 (4.2%) | 0 (0.0%) |
 | Tagline | 290 (7.6%) | 0 (0.0%) |
 | State | 0 (0.0%) | 0 (0.0%) |
-| GSTIN | 3,316 (86.4%) | 764 (76.4%) |
+| GSTIN | 3,316 (86.4%) | 765 (76.5%) |
 | Category ("Other") | 87 (2.3%) | 0 (0.0%) |
 
 ## 4. Why stores were left out (first failed check, with examples)
@@ -72,28 +73,37 @@ Score of the last store that made the cut: 7 (passing stores left out: 620).
 | email domain can receive mail (MX record) | 24 | aavyaa.com: failed: email domain can receive mail (MX record)<br>aquariumproductsindia.in: failed: email domain can receive mail (MX record)<br>balaramsaha.com: failed: email domain can receive mail (MX record) |
 | meta.json state does not contradict the GST number | 7 | consultsova.com: state conflict: meta.json says Delhi, GSTIN says Haryana<br>elegantelayers.com: state conflict: meta.json says Uttar Pradesh, GSTIN says Delhi<br>go24bottles.com: state conflict: meta.json says Delhi, GSTIN says Haryana |
 | all 4 Shopify signals (DNS, meta.json, HTML, headers) | 6 | aramya.in: failed: all 4 Shopify signals (DNS, meta.json, HTML, headers)<br>ayushcare.in: failed: all 4 Shopify signals (DNS, meta.json, HTML, headers)<br>tyresnmore.com: failed: all 4 Shopify signals (DNS, meta.json, HTML, headers) |
+| every field confirmed on the live site (final audit) | 6 | drsheths.com: failed: every field confirmed on the live site (final audit)<br>happilo.com: failed: every field confirmed on the live site (final audit)<br>oyela.in: failed: every field confirmed on the live site (final audit) |
 
-## 5. Final 1,000 at a glance
+## 5. Manual corrections (from the hand-check)
+
+Fixed by a human after checking the live site, listed in `data/manual_overrides.csv` and applied by this script.
+
+| Store | Field | Pipeline said | Corrected to | Why |
+|---|---|---|---|---|
+| linkcart.in | category | Bags & Luggage | Locks | Hand-checked: Link Locks Pvt. Ltd. sells digital, door and padlocks - keywords and AI both said Bags & Luggage |
+
+## 6. Final 1,000 at a glance
 
 **By category**
 
 | Category | Stores |
 |---|---:|
 | Apparel & Fashion | 201 |
-| Jewellery & Accessories | 118 |
-| Beauty & Personal Care | 102 |
-| Apparel & Fashion (Women) | 67 |
-| Electronics & Gadgets | 66 |
+| Jewellery & Accessories | 117 |
+| Beauty & Personal Care | 101 |
+| Electronics & Gadgets | 67 |
+| Apparel & Fashion (Women) | 66 |
 | Health & Wellness | 56 |
 | Food & Beverages | 55 |
 | Apparel & Fashion (Men) | 52 |
-| Footwear | 50 |
+| Footwear | 49 |
 | Kitchen & Dining | 32 |
-| Automotive | 28 |
-| Bags & Luggage | 28 |
+| Automotive | 30 |
+| Bags & Luggage | 27 |
 | Plants & Gardening | 25 |
 | Home & Decor | 24 |
-| Books & Stationery | 19 |
+| Books & Stationery | 20 |
 | Gifts & Hampers | 17 |
 | Religious & Pooja | 16 |
 | Baby & Kids | 14 |
@@ -101,20 +111,21 @@ Score of the last store that made the cut: 7 (passing stores left out: 620).
 | Art & Craft | 8 |
 | Sports & Fitness | 8 |
 | Pet Supplies | 4 |
+| Locks | 1 |
 
 **By state (top 12)**
 
 | State | Stores |
 |---|---:|
-| Maharashtra | 196 |
+| Maharashtra | 198 |
 | Delhi | 134 |
-| Haryana | 108 |
-| Tamil Nadu | 97 |
+| Haryana | 105 |
+| Tamil Nadu | 96 |
+| Uttar Pradesh | 89 |
 | Gujarat | 89 |
-| Uttar Pradesh | 88 |
 | Karnataka | 77 |
 | Rajasthan | 58 |
 | West Bengal | 31 |
-| Kerala | 28 |
+| Kerala | 29 |
 | Telangana | 26 |
 | Punjab | 22 |
