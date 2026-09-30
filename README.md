@@ -2,11 +2,20 @@
 
 Rivyou SDE Intern assignment · Sandeepan Verma
 
-**Result:** [`output/stores.csv`](output/stores.csv) (same data as [`output/stores.json`](output/stores.json)) — **1,000 Indian Shopify stores**, one row per store, all 7 requested fields. The [`output/`](output/) folder holds only the result; [`data/`](data/) holds the files each pipeline step produced (explained in [`data/README.md`](data/README.md)).
+## Final result: [`output/stores.csv`](output/stores.csv)
+
+**1,000 Indian Shopify stores, one row per store, all 7 requested fields.**
+
+- **View:** [output/stores.csv](https://github.com/sandeepan-verma07/indian-shopify-stores/blob/main/output/stores.csv) · [output/stores.json](https://github.com/sandeepan-verma07/indian-shopify-stores/blob/main/output/stores.json)
+- **Download:** [stores.csv (raw)](https://raw.githubusercontent.com/sandeepan-verma07/indian-shopify-stores/main/output/stores.csv) · [stores.json (raw)](https://raw.githubusercontent.com/sandeepan-verma07/indian-shopify-stores/main/output/stores.json)
+- **Columns explained:** [`output/README.md`](output/README.md)
+
+The [`output/`](output/) folder holds only the result; [`data/`](data/) holds the files each pipeline step produced (explained in [`data/README.md`](data/README.md)).
 Every store passed 12 checks, and in a final audit **every delivered field of all 1,000 stores was re-checked against the live website** ([`reports/audit.md`](reports/audit.md)).
 
-| | |
+| Stage | Result |
 |---|---|
+| **Final output** | **[`output/stores.csv`](output/stores.csv)** · [`output/stores.json`](output/stores.json) |
 | Candidate domains screened | 718,855 (Tranco + Chrome UX Report India) |
 | Confirmed live Shopify stores | 3,966 |
 | High-confidence Indian stores | 3,837 (all kept in [`data/all_stores.csv`](data/all_stores.csv) with a pass/fail per check) |
