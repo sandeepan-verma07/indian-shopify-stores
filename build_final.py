@@ -8,7 +8,7 @@ Reads (nothing here downloads anything):
 
 Writes:
   data/all_stores.csv         every store, every field, one pass/fail column per check + why it was left out
-  data/stores.csv / .json     the final 1,000, ranked (the deliverable)
+  output/stores.csv / .json   the final 1,000, ranked (the deliverable)
   reports/funnel.md           the whole funnel, each check, missing-field rates, examples - generated, so numbers always match
 
   python build_final.py
@@ -20,6 +20,7 @@ from pathlib import Path
 import pandas as pd
 
 DATA, REPORTS = Path("data"), Path("reports")
+OUTPUT = Path("output")          # the deliverable only: stores.csv + stores.json
 FINAL_SIZE = 1000
 SOCIALS = ["instagram", "facebook", "twitter", "linkedin", "youtube"]
 FREE_MAIL = {"gmail.com", "yahoo.com", "yahoo.in", "yahoo.co.in", "outlook.com", "hotmail.com",
@@ -219,7 +220,7 @@ def write_report(df: pd.DataFrame, checks: dict, final: pd.DataFrame, overrides:
         else:
             lines.append(f"| {meaning} | {(~ok).sum():,} | {passing.sum():,} |")
     lines += ["", f"**{passing.sum():,} stores pass every check.** They are ranked by a quality score and the top "
-              f"{FINAL_SIZE:,} become `data/stores.csv` / `data/stores.json`.", "",
+              f"{FINAL_SIZE:,} become `output/stores.csv` / `output/stores.json`.", "",
               "Quality score (max 13): GSTIN on site +3 · email on the store's own domain +2 · +1 per social profile · "
               "AI vote share >= 60% +1 · 20+ products +1 · About page +1. Ties: more popular first (CrUX India rank), then AI vote share.", ""]
     if len(final):
@@ -333,11 +334,12 @@ def main():
         "quality_score": final["quality_score"],
     })
     # utf-8-sig = UTF-8 with a marker Excel recognises, so ₹, "–" and Indian names open correctly
-    deliverable.to_csv(DATA / "stores.csv", index=False, encoding="utf-8-sig")
+    OUTPUT.mkdir(exist_ok=True)
+    deliverable.to_csv(OUTPUT / "stores.csv", index=False, encoding="utf-8-sig")
     records = deliverable.to_dict("records")
     for r in records:                               # in JSON, contacts are real lists
         r["emails"], r["phones"] = split(r["emails"]), split(r["phones"])
-    (DATA / "stores.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
+    (OUTPUT / "stores.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     df.to_csv(DATA / "all_stores.csv", index=False, encoding="utf-8-sig")
     write_report(df, checks, final, overrides)
 
@@ -347,7 +349,7 @@ def main():
         pending = (~final["audited"]).sum()
         print(f"Final audit: {final['audited'].sum():,} of the final {len(final):,} confirmed live"
               + (f" | {pending} new stores not audited yet -> run: python -m verify.audit" if pending else " - all done"))
-    print(f"Saved data/stores.csv, data/stores.json, data/all_stores.csv, reports/funnel.md")
+    print("Saved output/stores.csv, output/stores.json (the result) + data/all_stores.csv, reports/funnel.md")
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 
 Rivyou SDE Intern assignment · Sandeepan Verma
 
-**Result:** [`data/stores.csv`](data/stores.csv) (same data as [`data/stores.json`](data/stores.json)) — **1,000 Indian Shopify stores**, one row per store, all 7 requested fields.
+**Result:** [`output/stores.csv`](output/stores.csv) (same data as [`output/stores.json`](output/stores.json)) — **1,000 Indian Shopify stores**, one row per store, all 7 requested fields. The [`output/`](output/) folder holds only the result; [`data/`](data/) holds the files each pipeline step produced (explained in [`data/README.md`](data/README.md)).
 Every store passed 12 checks, and in a final audit **every delivered field of all 1,000 stores was re-checked against the live website** ([`reports/audit.md`](reports/audit.md)).
 
 | | |
@@ -247,7 +247,7 @@ Always run from the project root:
 | 8 | `python -m extract.refine` | contacts, state, taglines | ~5 min |
 | 9 | `python -m extract.ai_category` (`--limit 40` trial) | category second opinion (downloads a 90 MB model once) | ~7 min |
 | 10 | `python -m verify.live_checks` | logo loads + email MX | ~8 min |
-| 11 | `python build_final.py` | checks, ranking, `stores.csv/json`, `reports/funnel.md` | seconds |
+| 11 | `python build_final.py` | checks, ranking, `output/stores.csv/json`, `reports/funnel.md` | seconds |
 | 12 | `python -m verify.audit`, then `python build_final.py` — repeat until it prints "all done" | live re-check of every delivered field; failures are replaced | first run ~2.5 h, re-runs minutes |
 
 A full run from scratch takes roughly **6–7 hours**, almost all of it deliberately slow, polite waiting on websites. Every step caches or resumes, so it can be stopped and restarted.
@@ -265,8 +265,9 @@ verify/      shopify_check.py, india_score.py, live_checks.py, audit.py
 extract/     run_extract.py + one file per field (contacts, socials, logo, tagline, category,
              india_evidence), refine.py, ai_category.py
 build_final.py                                                     Step 7
-data/
-  stores.csv, stores.json      ← THE RESULT (1,000 stores)
+output/                        ← THE RESULT
+  stores.csv, stores.json      1,000 stores, all 7 fields
+data/                          what each pipeline step produced (see data/README.md)
   all_stores.csv               all 3,837 Indian stores, every check, why excluded
   audit_log.csv                live re-check of every delivered field, with evidence
   edge_cases.csv               doubtful stores kept apart, with the reason
@@ -279,7 +280,7 @@ reports/
   audit.md                     final live audit summary (generated)
 ```
 
-**Output columns** (`stores.csv`): `rank, store_name, domain_url, emails, phones, instagram, facebook, twitter, linkedin, youtube, category, tagline, tagline_source, logo_url, state, city, gstin, india_evidence, quality_score`. Multiple emails/phones are separated by `; ` (lists in the JSON). Phones are in international format (`+91…`), including Indian toll-free `1800` numbers.
+**Output columns** (`output/stores.csv`): `rank, store_name, domain_url, emails, phones, instagram, facebook, twitter, linkedin, youtube, category, tagline, tagline_source, logo_url, state, city, gstin, india_evidence, quality_score`. Multiple emails/phones are separated by `; ` (lists in the JSON). Phones are in international format (`+91…`), including Indian toll-free `1800` numbers.
 
 ---
 

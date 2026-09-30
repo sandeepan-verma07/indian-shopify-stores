@@ -36,7 +36,7 @@ Each check is applied on top of the ones above it. A store must pass all of them
 | email domain can receive mail (MX record) (live, on the 1,703 candidates) | 25 | 1,620 |
 | every field confirmed on the live site (final audit) (live, on the 1,006 audited stores) | 6 | 1,614 |
 
-**1,614 stores pass every check.** They are ranked by a quality score and the top 1,000 become `data/stores.csv` / `data/stores.json`.
+**1,614 stores pass every check.** They are ranked by a quality score and the top 1,000 become `output/stores.csv` / `output/stores.json`.
 
 Quality score (max 13): GSTIN on site +3 · email on the store's own domain +2 · +1 per social profile · AI vote share >= 60% +1 · 20+ products +1 · About page +1. Ties: more popular first (CrUX India rank), then AI vote share.
 
